@@ -215,7 +215,7 @@ public class PlayerCollector : MonoBehaviour
         if (slot1 != null && targetColor1 != null)
         {
             Color c = targetColor1.displayColor;
-            float targetAlpha = hasColor1 ? 0.5f : 1f;
+            float targetAlpha = hasColor1 ? 0.1f : 1f;
             c.a = targetAlpha;
             slot1.color = c;
             
@@ -230,7 +230,7 @@ public class PlayerCollector : MonoBehaviour
         if (slot2 != null && targetColor2 != null)
         {
             Color c = targetColor2.displayColor;
-            float targetAlpha = hasColor2 ? 0.5f : 1f;
+            float targetAlpha = hasColor2 ? 0.1f : 1f;
             c.a = targetAlpha;
             slot2.color = c;
             

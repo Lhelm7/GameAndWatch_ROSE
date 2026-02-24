@@ -114,7 +114,7 @@ public class GameManager : MonoBehaviour
             yield return StartCoroutine(SpawnWave());
             
             float waveTimer = 0f;
-            float maxWaveTime = 10f;
+            float maxWaveTime = 5f;
             
             while (waveTimer < maxWaveTime && !player.BothCollected() && gameRunning)
             {
@@ -154,21 +154,26 @@ public class GameManager : MonoBehaviour
         Debug.Log($"========== GAME OVER ==========");
         Debug.Log($"[GameManager] Final Score: {currentScore}");
         Debug.Log($"[GameManager] Victory Threshold: {victoryScoreThreshold}");
-
-        // Vérifiez le score avant de déterminer le résultat
-        Debug.Log($"Current Score: {currentScore} | Victory Threshold: {victoryScoreThreshold}");
-
+    
         bool isVictory = currentScore >= victoryScoreThreshold;
-        string sceneToLoad = isVictory ? victorySceneName : gameOverSceneName;
-
-        Debug.Log($"[GameManager] Result: {(isVictory ? "VICTORY" : "DEFEAT")}. Loading scene: '{sceneToLoad}'");
-
-        // Sauvegarder le score et le résultat
+    
+        Debug.Log($"[GameManager] {currentScore} >= {victoryScoreThreshold} ? {isVictory}");
+    
+        // ✅ SAUVEGARDER LE SCORE ET LE RÉSULTAT
         GameData.SaveGameResult(currentScore, isVictory);
-
-        // Charger la scène
-        LoadScene(sceneToLoad);
+    
+        if (isVictory)
+        {
+            Debug.Log($"[GameManager] 🏆 VICTORY! Loading scene: '{victorySceneName}'");
+            LoadScene(victorySceneName);
+        }
+        else
+        {
+            Debug.Log($"[GameManager] 💀 DEFEAT! Loading scene: '{gameOverSceneName}'");
+            LoadScene(gameOverSceneName);
+        }
     }
+
 
 
     private void LoadScene(string sceneName)
