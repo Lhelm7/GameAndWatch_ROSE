@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0e2a66124a0aac4eabbf19c0f0994d0, type: 3}
+  m_Name: Green
+  m_EditorClassIdentifier: Assembly-CSharp::ComponentColorData
+  colorName: Green
+  colorID: 2
+  sprite: {fileID: 8701142567465806826, guid: b312fbc0b02f14d4ca314791e92441b0, type: 3}
+  displayColor: {r: 0, g: 1, b: 0, a: 1}

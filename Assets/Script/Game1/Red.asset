@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0e2a66124a0aac4eabbf19c0f0994d0, type: 3}
+  m_Name: Red
+  m_EditorClassIdentifier: Assembly-CSharp::ComponentColorData
+  colorName: Red
+  colorID: 0
+  sprite: {fileID: -7784344130213837795, guid: b7373c0fda66e604188e2bde917e31a8, type: 3}
+  displayColor: {r: 1, g: 0, b: 0, a: 1}

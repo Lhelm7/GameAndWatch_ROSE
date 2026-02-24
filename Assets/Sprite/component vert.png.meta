@@ -1,0 +1,5577 @@
+fileFormatVersion: 2
+guid: b312fbc0b02f14d4ca314791e92441b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8701142567465806826
+    second: component vert_0
+  - first:
+      213: 724395118331344453
+    second: component vert_1
+  - first:
+      213: -6779293561544405341
+    second: component vert_2
+  - first:
+      213: -5909492151463366696
+    second: component vert_3
+  - first:
+      213: -3079685836953221587
+    second: component vert_4
+  - first:
+      213: 9196912281143030386
+    second: component vert_5
+  - first:
+      213: 1928640699007483492
+    second: component vert_6
+  - first:
+      213: 3004304667648276174
+    second: component vert_7
+  - first:
+      213: -4777675726886490290
+    second: component vert_8
+  - first:
+      213: -5643800965904782479
+    second: component vert_9
+  - first:
+      213: 7743837332409959673
+    second: component vert_10
+  - first:
+      213: 7865494463510876281
+    second: component vert_11
+  - first:
+      213: -5403386303919057518
+    second: component vert_12
+  - first:
+      213: -259104071948671190
+    second: component vert_13
+  - first:
+      213: -6015019514778080134
+    second: component vert_14
+  - first:
+      213: -7893753151608219728
+    second: component vert_15
+  - first:
+      213: 8930084309834581278
+    second: component vert_16
+  - first:
+      213: 5022593618680772830
+    second: component vert_17
+  - first:
+      213: 3439561298203098154
+    second: component vert_18
+  - first:
+      213: -5758519476731667790
+    second: component vert_19
+  - first:
+      213: 6193365771679593309
+    second: component vert_20
+  - first:
+      213: -626655288481939624
+    second: component vert_21
+  - first:
+      213: -708206178084602803
+    second: component vert_22
+  - first:
+      213: 1836376683076706826
+    second: component vert_23
+  - first:
+      213: 3061924332520561746
+    second: component vert_24
+  - first:
+      213: -2786262481367565653
+    second: component vert_25
+  - first:
+      213: 7711864133116741338
+    second: component vert_26
+  - first:
+      213: 2959960109074905116
+    second: component vert_27
+  - first:
+      213: 7527822793027327088
+    second: component vert_28
+  - first:
+      213: 1399749648496358543
+    second: component vert_29
+  - first:
+      213: 8798539372014513158
+    second: component vert_30
+  - first:
+      213: -8867460478529891522
+    second: component vert_31
+  - first:
+      213: 930033628907082624
+    second: component vert_32
+  - first:
+      213: 3830415471736883280
+    second: component vert_33
+  - first:
+      213: 4798662407099855401
+    second: component vert_34
+  - first:
+      213: 7989487934628507626
+    second: component vert_35
+  - first:
+      213: -7602396381699743530
+    second: component vert_36
+  - first:
+      213: -4025846924307080652
+    second: component vert_37
+  - first:
+      213: -2354692401864477699
+    second: component vert_38
+  - first:
+      213: 6646339245250743994
+    second: component vert_39
+  - first:
+      213: 565154181022990201
+    second: component vert_40
+  - first:
+      213: 7086124287622723266
+    second: component vert_41
+  - first:
+      213: 9131405739449187461
+    second: component vert_42
+  - first:
+      213: -1282900585168730292
+    second: component vert_43
+  - first:
+      213: 9222738963530700517
+    second: component vert_44
+  - first:
+      213: 6037838665656447958
+    second: component vert_45
+  - first:
+      213: -5258162103803208834
+    second: component vert_46
+  - first:
+      213: 3212406848631031321
+    second: component vert_47
+  - first:
+      213: -1108928618231950578
+    second: component vert_48
+  - first:
+      213: 1956072821977128634
+    second: component vert_49
+  - first:
+      213: 5456380178209996918
+    second: component vert_50
+  - first:
+      213: 6309845737664839589
+    second: component vert_51
+  - first:
+      213: 2646241928626616873
+    second: component vert_52
+  - first:
+      213: 3519378103012039260
+    second: component vert_53
+  - first:
+      213: 2009633557184470057
+    second: component vert_54
+  - first:
+      213: 3428795301497469630
+    second: component vert_55
+  - first:
+      213: -4983603267454960902
+    second: component vert_56
+  - first:
+      213: 2298135006362208519
+    second: component vert_57
+  - first:
+      213: 3071152579189984523
+    second: component vert_58
+  - first:
+      213: -3749051260604566442
+    second: component vert_59
+  - first:
+      213: 3418797190719975783
+    second: component vert_60
+  - first:
+      213: -6375901611061414994
+    second: component vert_61
+  - first:
+      213: -6367261117733202868
+    second: component vert_62
+  - first:
+      213: 4016877281057151058
+    second: component vert_63
+  - first:
+      213: -7495191654084780788
+    second: component vert_64
+  - first:
+      213: 4057755033847023465
+    second: component vert_65
+  - first:
+      213: -663801703942858451
+    second: component vert_66
+  - first:
+      213: 5041222093412040842
+    second: component vert_67
+  - first:
+      213: 8000547585261319434
+    second: component vert_68
+  - first:
+      213: -3256195606901762577
+    second: component vert_69
+  - first:
+      213: -6395472449142087456
+    second: component vert_70
+  - first:
+      213: -1124547495667349918
+    second: component vert_71
+  - first:
+      213: -2158808681068672512
+    second: component vert_72
+  - first:
+      213: 7914801844884580564
+    second: component vert_73
+  - first:
+      213: 4200744418495586655
+    second: component vert_74
+  - first:
+      213: 3346271825362379238
+    second: component vert_75
+  - first:
+      213: 7884091483466321385
+    second: component vert_76
+  - first:
+      213: -1224212815164789305
+    second: component vert_77
+  - first:
+      213: 5096708783513300226
+    second: component vert_78
+  - first:
+      213: -5970151244268568611
+    second: component vert_79
+  - first:
+      213: 1383035784336121485
+    second: component vert_80
+  - first:
+      213: -5567824249760829906
+    second: component vert_81
+  - first:
+      213: -320218791424016951
+    second: component vert_82
+  - first:
+      213: -6304534631835292846
+    second: component vert_83
+  - first:
+      213: -1116106498170003640
+    second: component vert_84
+  - first:
+      213: 8672752985640980953
+    second: component vert_85
+  - first:
+      213: -6211374384978901111
+    second: component vert_86
+  - first:
+      213: -608509657282360731
+    second: component vert_87
+  - first:
+      213: 4957171942941607092
+    second: component vert_88
+  - first:
+      213: 410030908439105552
+    second: component vert_89
+  - first:
+      213: 694333477137433172
+    second: component vert_90
+  - first:
+      213: -6081891612747257622
+    second: component vert_91
+  - first:
+      213: 692169386270836768
+    second: component vert_92
+  - first:
+      213: -2594773049969992301
+    second: component vert_93
+  - first:
+      213: 5855486565953484808
+    second: component vert_94
+  - first:
+      213: 4088040072516221680
+    second: component vert_95
+  - first:
+      213: -6951176044861187593
+    second: component vert_96
+  - first:
+      213: 4993020148237797423
+    second: component vert_97
+  - first:
+      213: -3526481893047630683
+    second: component vert_98
+  - first:
+      213: 6903761994549727832
+    second: component vert_99
+  - first:
+      213: -3918190232296800110
+    second: component vert_100
+  - first:
+      213: -1757379371769055707
+    second: component vert_101
+  - first:
+      213: 9065788653602622296
+    second: component vert_102
+  - first:
+      213: 7126840829230895701
+    second: component vert_103
+  - first:
+      213: 8704542141776555707
+    second: component vert_104
+  - first:
+      213: -3541063085645162594
+    second: component vert_105
+  - first:
+      213: -6280303867728883756
+    second: component vert_106
+  - first:
+      213: -4943432265476535786
+    second: component vert_107
+  - first:
+      213: 6357924238104390412
+    second: component vert_108
+  - first:
+      213: 6569907270024766842
+    second: component vert_109
+  - first:
+      213: 7748445566248479217
+    second: component vert_110
+  - first:
+      213: -8779127278574545101
+    second: component vert_111
+  - first:
+      213: -2342546563948168156
+    second: component vert_112
+  - first:
+      213: 4589229922420453648
+    second: component vert_113
+  - first:
+      213: -2157478833079092317
+    second: component vert_114
+  - first:
+      213: 7596894028309249853
+    second: component vert_115
+  - first:
+      213: 2586842151928780978
+    second: component vert_116
+  - first:
+      213: 9094775360764699332
+    second: component vert_117
+  - first:
+      213: 5341708242274298162
+    second: component vert_118
+  - first:
+      213: -485834670771764758
+    second: component vert_119
+  - first:
+      213: -6126497894874716080
+    second: component vert_120
+  - first:
+      213: 4517111974257276900
+    second: component vert_121
+  - first:
+      213: 2138164687856903330
+    second: component vert_122
+  - first:
+      213: -9178510238831847706
+    second: component vert_123
+  - first:
+      213: 4692742439751702942
+    second: component vert_124
+  - first:
+      213: -1805308432489468289
+    second: component vert_125
+  - first:
+      213: -5814342431950880247
+    second: component vert_126
+  - first:
+      213: -4045400551484208269
+    second: component vert_127
+  - first:
+      213: 2073377840024762758
+    second: component vert_128
+  - first:
+      213: 284385920958389677
+    second: component vert_129
+  - first:
+      213: -5560504575919103442
+    second: component vert_130
+  - first:
+      213: -3313838203893309898
+    second: component vert_131
+  - first:
+      213: 5395717161301731789
+    second: component vert_132
+  - first:
+      213: -2504509102830544199
+    second: component vert_133
+  - first:
+      213: -2957462599262924772
+    second: component vert_134
+  - first:
+      213: -6307999250275888372
+    second: component vert_135
+  - first:
+      213: -5829229645148137722
+    second: component vert_136
+  - first:
+      213: -8233545340401461191
+    second: component vert_137
+  - first:
+      213: -862323435494530499
+    second: component vert_138
+  - first:
+      213: -8614701526375596542
+    second: component vert_139
+  - first:
+      213: 1273993810826233892
+    second: component vert_140
+  - first:
+      213: 3947815384459345462
+    second: component vert_141
+  - first:
+      213: 7058014125588613234
+    second: component vert_142
+  - first:
+      213: 8307026503917558195
+    second: component vert_143
+  - first:
+      213: -6502960177710613692
+    second: component vert_144
+  - first:
+      213: 886745422298203343
+    second: component vert_145
+  - first:
+      213: 4710803923545503175
+    second: component vert_146
+  - first:
+      213: -4081131505972126584
+    second: component vert_147
+  - first:
+      213: 890192052408623781
+    second: component vert_148
+  - first:
+      213: 6007344659006790343
+    second: component vert_149
+  - first:
+      213: 4835346085457623446
+    second: component vert_150
+  - first:
+      213: 7598761428689539562
+    second: component vert_151
+  - first:
+      213: -4425881789449363656
+    second: component vert_152
+  - first:
+      213: -176996977184269385
+    second: component vert_153
+  - first:
+      213: 6665952732616906065
+    second: component vert_154
+  - first:
+      213: -5437328553484037032
+    second: component vert_155
+  - first:
+      213: 9143321430165991591
+    second: component vert_156
+  - first:
+      213: -8341334533346103233
+    second: component vert_157
+  - first:
+      213: -6652177708918512073
+    second: component vert_158
+  - first:
+      213: -400561928784986312
+    second: component vert_159
+  - first:
+      213: -8340590403620945354
+    second: component vert_160
+  - first:
+      213: -5905164293313174550
+    second: component vert_161
+  - first:
+      213: -5373555537392612576
+    second: component vert_162
+  - first:
+      213: -808167132053195547
+    second: component vert_163
+  - first:
+      213: 4628393892534085105
+    second: component vert_164
+  - first:
+      213: 7314895737624522858
+    second: component vert_165
+  - first:
+      213: 5609072995346173604
+    second: component vert_166
+  - first:
+      213: 2790682847336722825
+    second: component vert_167
+  - first:
+      213: -345012477540337770
+    second: component vert_168
+  - first:
+      213: 8079937854987494739
+    second: component vert_169
+  - first:
+      213: -4096451468955153498
+    second: component vert_170
+  - first:
+      213: -1182142114646332424
+    second: component vert_171
+  - first:
+      213: -7089143210700585431
+    second: component vert_172
+  - first:
+      213: 3401718790381425621
+    second: component vert_173
+  - first:
+      213: 4531029565646332345
+    second: component vert_174
+  - first:
+      213: -4470886153921984852
+    second: component vert_175
+  - first:
+      213: -223456641536430136
+    second: component vert_176
+  - first:
+      213: -4126762913055917184
+    second: component vert_177
+  - first:
+      213: -5114445087447805134
+    second: component vert_178
+  - first:
+      213: -1517667863252016271
+    second: component vert_179
+  - first:
+      213: -8796347755570001684
+    second: component vert_180
+  - first:
+      213: 6358589060053511047
+    second: component vert_181
+  - first:
+      213: -5674781809289751826
+    second: component vert_182
+  - first:
+      213: 7857246876301935168
+    second: component vert_183
+  - first:
+      213: -5242069732263523150
+    second: component vert_184
+  - first:
+      213: -7794648137973453578
+    second: component vert_185
+  - first:
+      213: 6195188388718439575
+    second: component vert_186
+  - first:
+      213: -1973748953230718023
+    second: component vert_187
+  - first:
+      213: 2392140103831848642
+    second: component vert_188
+  - first:
+      213: -2552612814903728562
+    second: component vert_189
+  - first:
+      213: -4022151645295936025
+    second: component vert_190
+  - first:
+      213: 4569145049261201227
+    second: component vert_191
+  - first:
+      213: -6458371677062124532
+    second: component vert_192
+  - first:
+      213: -722477024567648760
+    second: component vert_193
+  - first:
+      213: -1655525819163210635
+    second: component vert_194
+  - first:
+      213: 780891317030896581
+    second: component vert_195
+  - first:
+      213: -7545997062350427949
+    second: component vert_196
+  - first:
+      213: -7407772119407167360
+    second: component vert_197
+  - first:
+      213: -6830490646473191334
+    second: component vert_198
+  - first:
+      213: 5587883050493880880
+    second: component vert_199
+  - first:
+      213: 5814517145515298068
+    second: component vert_200
+  - first:
+      213: 3593127921928489295
+    second: component vert_201
+  - first:
+      213: 5301079422864537038
+    second: component vert_202
+  - first:
+      213: -7394360045402682889
+    second: component vert_203
+  - first:
+      213: -2608260881525672825
+    second: component vert_204
+  - first:
+      213: 99866847939395837
+    second: component vert_205
+  - first:
+      213: 1065303986640152185
+    second: component vert_206
+  - first:
+      213: 4050150135793289396
+    second: component vert_207
+  - first:
+      213: -4696321185897728247
+    second: component vert_208
+  - first:
+      213: -7747926773459622688
+    second: component vert_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: component vert_0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 289
+        width: 1694
+        height: 3167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb64d1801ba0c870800000000000000
+      internalID: 8701142567465806826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_1
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 2424
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546ba29a5819d0a00800000000000000
+      internalID: 724395118331344453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_2
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 2424
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae8d0c8c6c1be1a0800000000000000
+      internalID: -6779293561544405341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_3
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2359
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df2115b2344dfda0800000000000000
+      internalID: -5909492151463366696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_4
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2295
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d260a945c02c245d0800000000000000
+      internalID: -3079685836953221587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_5
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 2297
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27235fb0efef1af70800000000000000
+      internalID: 9196912281143030386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_6
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2295
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb3b35f78e3ca10800000000000000
+      internalID: 1928640699007483492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_7
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2246
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec639308d2f61b920800000000000000
+      internalID: 3004304667648276174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_8
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 2239
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4face65d3942bdb0800000000000000
+      internalID: -4777675726886490290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2189
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b2d347ce03da1b0800000000000000
+      internalID: -5643800965904782479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2195
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f444b47603a77b60800000000000000
+      internalID: 7743837332409959673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_11
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2209
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9701e589a89d72d60800000000000000
+      internalID: 7865494463510876281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_12
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2188
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29591b2f8c05305b0800000000000000
+      internalID: -5403386303919057518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2764a7283a776cf0800000000000000
+      internalID: -259104071948671190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2097
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2c98ce9b568ca0800000000000000
+      internalID: -6015019514778080134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2092
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b795cdd451c37290800000000000000
+      internalID: -7893753151608219728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2070
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15cafdbd580eeb70800000000000000
+      internalID: 8930084309834581278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2042
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed87c9c0946d3b540800000000000000
+      internalID: 5022593618680772830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1962
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cb392f6c6cbbf20800000000000000
+      internalID: 3439561298203098154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1954
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba9d3dbb01a510b0800000000000000
+      internalID: -5758519476731667790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1969
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5376010b5143f550800000000000000
+      internalID: 6193365771679593309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1922
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ff965d55cad47f0800000000000000
+      internalID: -626655288481939624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1922
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cb787bb32fb26f0800000000000000
+      internalID: -708206178084602803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1927
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02e89c1dde1c7910800000000000000
+      internalID: 1836376683076706826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1907
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c530925f32e7a20800000000000000
+      internalID: 3061924332520561746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_25
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1914
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa761319053559d0800000000000000
+      internalID: -2786262481367565653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_26
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1907
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6cf72e19b060b60800000000000000
+      internalID: 7711864133116741338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_27
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1914
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187cb26904e31920800000000000000
+      internalID: 2959960109074905116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1828
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0749b7632f2387860800000000000000
+      internalID: 7527822793027327088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1834
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f847a1d93e8ec6310800000000000000
+      internalID: 1399749648496358543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1744
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ca63331f0ba1a70800000000000000
+      internalID: 8798539372014513158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1744
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3319653da370f480800000000000000
+      internalID: -8867460478529891522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1744
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0839c2078a428ec00800000000000000
+      internalID: 930033628907082624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_33
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1743
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058890fb39e582530800000000000000
+      internalID: 3830415471736883280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1744
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922353ce806489240800000000000000
+      internalID: 4798662407099855401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_35
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1744
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2dc842fc50ee60800000000000000
+      internalID: 7989487934628507626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_36
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1752
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0621325ccde7690800000000000000
+      internalID: -7602396381699743530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_37
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1744
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ad39c5d815128c0800000000000000
+      internalID: -4025846924307080652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1638
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37e877cb3725fd0800000000000000
+      internalID: -2354692401864477699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1642
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe88e9645a8c3c50800000000000000
+      internalID: 6646339245250743994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_40
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1631
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fb33bbbb4d7d700800000000000000
+      internalID: 565154181022990201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_41
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1631
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63506ee78f65260800000000000000
+      internalID: 7086124287622723266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_42
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1631
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf4d7c32549be70800000000000000
+      internalID: 9131405739449187461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1575
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4780e207b8323ee0800000000000000
+      internalID: -1282900585168730292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1596
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d6612930cdff70800000000000000
+      internalID: 9222738963530700517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1580
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3329dc646bac350800000000000000
+      internalID: 6037838665656447958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1582
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b936fec614707b0800000000000000
+      internalID: -5258162103803208834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_47
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1546
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9164fae3203c49c20800000000000000
+      internalID: 3212406848631031321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_48
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1574
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03150d0c4b4c90f0800000000000000
+      internalID: -1108928618231950578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1567
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe1ebc2edd552b10800000000000000
+      internalID: 1956072821977128634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1567
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67080b9ecd4f8bb40800000000000000
+      internalID: 5456380178209996918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1539
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af76057443119750800000000000000
+      internalID: 6309845737664839589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1533
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ab881830759b420800000000000000
+      internalID: 2646241928626616873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_53
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1530
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a125cfcb757d030800000000000000
+      internalID: 3519378103012039260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_54
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c5fa0a217a3eb10800000000000000
+      internalID: 2009633557184470057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1468
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaf8410927859f20800000000000000
+      internalID: 3428795301497469630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_56
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1459
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afafed58b3fa6dab0800000000000000
+      internalID: -4983603267454960902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_57
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1426
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7090c1cbc9d94ef10800000000000000
+      internalID: 2298135006362208519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_58
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1437
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc4a5cffcee9a20800000000000000
+      internalID: 3071152579189984523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_59
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1419
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6543fe6edb1b8fbc0800000000000000
+      internalID: -3749051260604566442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_60
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1419
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761b7ff6ee1027f20800000000000000
+      internalID: 3418797190719975783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1366
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3f7d5044f3487a0800000000000000
+      internalID: -6375901611061414994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_62
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1405
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441b55afb1f2a7a0800000000000000
+      internalID: -6367261117733202868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_63
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1396
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589fb3da90deb730800000000000000
+      internalID: 4016877281057151058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_64
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1426
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dddced6eabbf790800000000000000
+      internalID: -7495191654084780788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_65
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1410
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967410254ba005830800000000000000
+      internalID: 4057755033847023465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1390
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29df230ed3b9c6f0800000000000000
+      internalID: -663801703942858451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1412
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a800dafc8c406f540800000000000000
+      internalID: 5041222093412040842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1412
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a053c1cd3a7a70f60800000000000000
+      internalID: 8000547585261319434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1412
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5de6bf85bafc2d0800000000000000
+      internalID: -3256195606901762577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_70
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1394
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a61231b7be37a0800000000000000
+      internalID: -6395472449142087456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_71
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1410
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26641b3c20ec460f0800000000000000
+      internalID: -1124547495667349918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_72
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1397
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a4fd241fe5a02e0800000000000000
+      internalID: -2158808681068672512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_73
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1412
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8a3ffe75607dd60800000000000000
+      internalID: 7914801844884580564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_74
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1390
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5162a8caca0c4a30800000000000000
+      internalID: 4200744418495586655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_75
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1389
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16f90fe78507e20800000000000000
+      internalID: 3346271825362379238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1376
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed41b8be6be96d60800000000000000
+      internalID: 7884091483466321385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1376
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2f964ee8b20fe0800000000000000
+      internalID: -1224212815164789305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_78
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1374
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6ce492a52bb640800000000000000
+      internalID: 5096708783513300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1356
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddff3061313c52da0800000000000000
+      internalID: -5970151244268568611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1320
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e120dd7b7813310800000000000000
+      internalID: 1383035784336121485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_81
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1325
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e233d285d1bb2b0800000000000000
+      internalID: -5567824249760829906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_82
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1331
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd34cea4ba5e8bf0800000000000000
+      internalID: -320218791424016951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_83
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1299
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b2f4bb72bc188a0800000000000000
+      internalID: -6304534631835292846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_84
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1312
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f5215ad0bc280f0800000000000000
+      internalID: -1116106498170003640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1275
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1d6d5e3eecb5870800000000000000
+      internalID: 8672752985640980953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1269
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9874f58f7e3ccc9a0800000000000000
+      internalID: -6211374384978901111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_87
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1284
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a4a43d0b32e87f0800000000000000
+      internalID: -608509657282360731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_88
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1284
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4419d2e996bc440800000000000000
+      internalID: 4957171942941607092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_89
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1270
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010917450f8b0b500800000000000000
+      internalID: 410030908439105552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_90
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1267
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45240746e94c2a900800000000000000
+      internalID: 694333477137433172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1254
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8a5cb2dc7c89ba0800000000000000
+      internalID: -6081891612747257622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028c219b3641b9900800000000000000
+      internalID: 692169386270836768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_93
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1268
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d18c3a8a38dfbd0800000000000000
+      internalID: -2594773049969992301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_94
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1261
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808babe020ed24150800000000000000
+      internalID: 5855486565953484808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa34ed59c2abb830800000000000000
+      internalID: 4088040072516221680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_96
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f918d25736788f90800000000000000
+      internalID: -6951176044861187593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_97
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1225
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f280514ee55ca4540800000000000000
+      internalID: 4993020148237797423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_98
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1240
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a48c02076b6f0fc0800000000000000
+      internalID: -3526481893047630683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_99
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1242
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8529af2d4f61fcf50800000000000000
+      internalID: 6903761994549727832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_100
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1199
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2904b814ebacf99c0800000000000000
+      internalID: -3918190232296800110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_101
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1211
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263b1ab5c88c97e0800000000000000
+      internalID: -1757379371769055707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1221
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b40c27fb620dd70800000000000000
+      internalID: 9065788653602622296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_103
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1190
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552de0d79ff97e260800000000000000
+      internalID: 7126840829230895701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_104
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe620595febcc870800000000000000
+      internalID: 8704542141776555707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_105
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 1190
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e971fdc82ed9bdec0800000000000000
+      internalID: -3541063085645162594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_106
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1178
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df028228e0e7d8a0800000000000000
+      internalID: -6280303867728883756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_107
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1164
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a0115cb86656bb0800000000000000
+      internalID: -4943432265476535786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_108
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1178
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bee09a862eb3850800000000000000
+      internalID: 6357924238104390412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_109
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75251d6adffc2b50800000000000000
+      internalID: 6569907270024766842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_110
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1176
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e0b18032088b60800000000000000
+      internalID: 7748445566248479217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_111
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1164
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3375f9201464a2680800000000000000
+      internalID: -8779127278574545101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_112
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1139
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cbe0abf4a9d7fd0800000000000000
+      internalID: -2342546563948168156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_113
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1133
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011f676bc4830bf30800000000000000
+      internalID: 4589229922420453648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_114
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1135
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab75ef9e681f02e0800000000000000
+      internalID: -2157478833079092317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_115
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1133
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fb8a16ed69d6960800000000000000
+      internalID: 7596894028309249853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_116
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1142
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d8b34b3f46e320800000000000000
+      internalID: 2586842151928780978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_117
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1134
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ea522102273e70800000000000000
+      internalID: 9094775360764699332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1092
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392982485f812a40800000000000000
+      internalID: 5341708242274298162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_119
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1089
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae18415e0f7f149f0800000000000000
+      internalID: -485834670771764758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_120
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1063
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05860dacf9e4afaa0800000000000000
+      internalID: -6126497894874716080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_121
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1043
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b44c686100be30800000000000000
+      internalID: 4517111974257276900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_122
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1035
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4aef284794cad10800000000000000
+      internalID: 2138164687856903330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_123
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1043
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6542f41916f9080800000000000000
+      internalID: -9178510238831847706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_124
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1029
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99dccfb268ff1140800000000000000
+      internalID: 4692742439751702942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_125
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1017
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea27bab8142f6e0800000000000000
+      internalID: -1805308432489468289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_126
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 964
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90246152d5e4f4fa0800000000000000
+      internalID: -5814342431950880247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_127
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 896
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b4d92c1a9dbd7c0800000000000000
+      internalID: -4045400551484208269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_128
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 960
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689b7d7092e16cc10800000000000000
+      internalID: 2073377840024762758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_129
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 959
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadd8d50d7752f300800000000000000
+      internalID: 284385920958389677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_130
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 951
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22686c8c8e15d2b0800000000000000
+      internalID: -5560504575919103442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_131
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 831
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e12d506b1e202d0800000000000000
+      internalID: -3313838203893309898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_132
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 892
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc96ed3ab2071ea40800000000000000
+      internalID: 5395717161301731789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_133
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 944
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9d0d8d323e3dd0800000000000000
+      internalID: -2504509102830544199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_134
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 930
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c101e6e6f6bf4f6d0800000000000000
+      internalID: -2957462599262924772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 921
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0310e36a1c7578a0800000000000000
+      internalID: -6307999250275888372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_136
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 927
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d4c6b58a6a1fa0800000000000000
+      internalID: -5829229645148137722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_137
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 921
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9385c47d2229cbd80800000000000000
+      internalID: -8233545340401461191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_138
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 902
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32aad977696804f0800000000000000
+      internalID: -862323435494530499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_139
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 893
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20efd5aba9e627880800000000000000
+      internalID: -8614701526375596542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_140
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 916
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428085cfe922ea110800000000000000
+      internalID: 1273993810826233892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_141
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 885
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e758dfc2579c630800000000000000
+      internalID: 3947815384459345462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_142
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 902
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780667c37a13f160800000000000000
+      internalID: 7058014125588613234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_143
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 902
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9d2c1c79c784370800000000000000
+      internalID: 8307026503917558195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_144
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 893
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3c0b2c28d0c5a0800000000000000
+      internalID: -6502960177710613692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_145
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 864
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4c94e634a5e4c00800000000000000
+      internalID: 886745422298203343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_146
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 857
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c53275a533206140800000000000000
+      internalID: 4710803923545503175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_147
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 877
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c50e0a488ec57c0800000000000000
+      internalID: -4081131505972126584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_148
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 859
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a221b984f89a5c00800000000000000
+      internalID: 890192052408623781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_149
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 857
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca907b93206e5350800000000000000
+      internalID: 6007344659006790343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_150
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 866
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699f6cd55a99a1340800000000000000
+      internalID: 4835346085457623446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_151
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 859
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1daf96249347960800000000000000
+      internalID: 7598761428689539562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_152
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 849
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f100a36fb1492c0800000000000000
+      internalID: -4425881789449363656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_153
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 752
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb1d90ef2e2b8df0800000000000000
+      internalID: -176996977184269385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_154
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 720
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155dc2d41b8328c50800000000000000
+      internalID: 6665952732616906065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_155
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 751
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854de722d7aba84b0800000000000000
+      internalID: -5437328553484037032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_156
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 737
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0b248b56a93ee70800000000000000
+      internalID: 9143321430165991591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_157
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 732
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30f43baf60ad3c80800000000000000
+      internalID: -8341334533346103233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_158
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 708
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e3255e97bea3a0800000000000000
+      internalID: -6652177708918512073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_159
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 704
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fb93c4c0be07af0800000000000000
+      internalID: -400561928784986312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_160
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 669
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632442fd735404c80800000000000000
+      internalID: -8340590403620945354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_161
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 675
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36fb4bc54ac0ea0800000000000000
+      internalID: -5905164293313174550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_162
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b41e485bb4d65b0800000000000000
+      internalID: -5373555537392612576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_163
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 682
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b2d67640d8c4f0800000000000000
+      internalID: -808167132053195547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_164
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 659
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e41519bb5b3040800000000000000
+      internalID: 4628393892534085105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_165
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 589
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60f02adaeab38560800000000000000
+      internalID: 7314895737624522858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_166
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 618
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae48decb2e67dd40800000000000000
+      internalID: 5609072995346173604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_167
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 560
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981f744934f7ab620800000000000000
+      internalID: 2790682847336722825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_168
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 562
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977129caf4463bf0800000000000000
+      internalID: -345012477540337770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_169
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 518
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355e2c57ba4b12070800000000000000
+      internalID: 8079937854987494739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_170
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 546
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab0d49c71b7627c0800000000000000
+      internalID: -4096451468955153498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_171
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 548
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbe97e8200389fe0800000000000000
+      internalID: -1182142114646332424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_172
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 519
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926c15c4fcd4e9d90800000000000000
+      internalID: -7089143210700585431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_173
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 519
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3d47e7735553f20800000000000000
+      internalID: 3401718790381425621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_174
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 489
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1642f226371ee30800000000000000
+      internalID: 4531029565646332345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_175
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 467
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca684441bb834f1c0800000000000000
+      internalID: -4470886153921984852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_176
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 477
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfe4825e5f16ecf0800000000000000
+      internalID: -223456641536430136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 446
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bbb0fbefacab6c0800000000000000
+      internalID: -4126762913055917184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_178
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 402
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2339e6b5a47d509b0800000000000000
+      internalID: -5114445087447805134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_179
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 425
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17366db8e1920fae0800000000000000
+      internalID: -1517667863252016271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_180
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 385
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8027442581de580800000000000000
+      internalID: -8796347755570001684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_181
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bac259f0f3e3850800000000000000
+      internalID: 6358589060053511047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_182
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 262
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee29f6fb2002f31b0800000000000000
+      internalID: -5674781809289751826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_183
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 263
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042468e876c8a0d60800000000000000
+      internalID: 7857246876301935168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_184
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 246
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0b982a5d6047b0800000000000000
+      internalID: -5242069732263523150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_185
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 240
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcaeeaf0d8d3d390800000000000000
+      internalID: -7794648137973453578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_186
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 1163
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cef2a140bb9f550800000000000000
+      internalID: 6195188388718439575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_187
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 250
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb42eec8c5db94e0800000000000000
+      internalID: -1973748953230718023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_188
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 196
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c60dd510c6923120800000000000000
+      internalID: 2392140103831848642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_189
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 206
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46ad8e4b2c439cd0800000000000000
+      internalID: -2552612814903728562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_190
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edf16d83627e28c0800000000000000
+      internalID: -4022151645295936025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_191
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47d274c63dd86f30800000000000000
+      internalID: 4569145049261201227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_192
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 229
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ca4497d214f56a0800000000000000
+      internalID: -6458371677062124532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_193
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 222
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e934859fe39f5f0800000000000000
+      internalID: -722477024567648760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_194
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 191
+        width: 119
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c0a40f9046609e0800000000000000
+      internalID: -1655525819163210635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_195
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 208
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c340d7f38846da00800000000000000
+      internalID: 780891317030896581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_196
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 208
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d82676f6ab374790800000000000000
+      internalID: -7545997062350427949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_197
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 198
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08871b5618e423990800000000000000
+      internalID: -7407772119407167360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_198
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 201
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50565f42f83531a0800000000000000
+      internalID: -6830490646473191334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_199
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 192
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2d1f47062c8d40800000000000000
+      internalID: 5587883050493880880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_200
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 176
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d8bd6898051b050800000000000000
+      internalID: 5814517145515298068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_201
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 140
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49c51bceca5dd130800000000000000
+      internalID: 3593127921928489295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_202
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 116
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec539f516a7319940800000000000000
+      internalID: 5301079422864537038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_203
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98e6837b4f16990800000000000000
+      internalID: -7394360045402682889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_204
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 33
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7847d132c889dcbd0800000000000000
+      internalID: -2608260881525672825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_205
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0044c7e5cc26100800000000000000
+      internalID: 99866847939395837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_206
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 16
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9766e75e458b8ce00800000000000000
+      internalID: 1065303986640152185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_207
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b885f20716053830800000000000000
+      internalID: 4050150135793289396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_208
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907bc6b73c053deb0800000000000000
+      internalID: -4696321185897728247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component vert_209
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4633a56a5d97490800000000000000
+      internalID: -7747926773459622688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      component vert_0: 8701142567465806826
+      component vert_1: 724395118331344453
+      component vert_10: 7743837332409959673
+      component vert_100: -3918190232296800110
+      component vert_101: -1757379371769055707
+      component vert_102: 9065788653602622296
+      component vert_103: 7126840829230895701
+      component vert_104: 8704542141776555707
+      component vert_105: -3541063085645162594
+      component vert_106: -6280303867728883756
+      component vert_107: -4943432265476535786
+      component vert_108: 6357924238104390412
+      component vert_109: 6569907270024766842
+      component vert_11: 7865494463510876281
+      component vert_110: 7748445566248479217
+      component vert_111: -8779127278574545101
+      component vert_112: -2342546563948168156
+      component vert_113: 4589229922420453648
+      component vert_114: -2157478833079092317
+      component vert_115: 7596894028309249853
+      component vert_116: 2586842151928780978
+      component vert_117: 9094775360764699332
+      component vert_118: 5341708242274298162
+      component vert_119: -485834670771764758
+      component vert_12: -5403386303919057518
+      component vert_120: -6126497894874716080
+      component vert_121: 4517111974257276900
+      component vert_122: 2138164687856903330
+      component vert_123: -9178510238831847706
+      component vert_124: 4692742439751702942
+      component vert_125: -1805308432489468289
+      component vert_126: -5814342431950880247
+      component vert_127: -4045400551484208269
+      component vert_128: 2073377840024762758
+      component vert_129: 284385920958389677
+      component vert_13: -259104071948671190
+      component vert_130: -5560504575919103442
+      component vert_131: -3313838203893309898
+      component vert_132: 5395717161301731789
+      component vert_133: -2504509102830544199
+      component vert_134: -2957462599262924772
+      component vert_135: -6307999250275888372
+      component vert_136: -5829229645148137722
+      component vert_137: -8233545340401461191
+      component vert_138: -862323435494530499
+      component vert_139: -8614701526375596542
+      component vert_14: -6015019514778080134
+      component vert_140: 1273993810826233892
+      component vert_141: 3947815384459345462
+      component vert_142: 7058014125588613234
+      component vert_143: 8307026503917558195
+      component vert_144: -6502960177710613692
+      component vert_145: 886745422298203343
+      component vert_146: 4710803923545503175
+      component vert_147: -4081131505972126584
+      component vert_148: 890192052408623781
+      component vert_149: 6007344659006790343
+      component vert_15: -7893753151608219728
+      component vert_150: 4835346085457623446
+      component vert_151: 7598761428689539562
+      component vert_152: -4425881789449363656
+      component vert_153: -176996977184269385
+      component vert_154: 6665952732616906065
+      component vert_155: -5437328553484037032
+      component vert_156: 9143321430165991591
+      component vert_157: -8341334533346103233
+      component vert_158: -6652177708918512073
+      component vert_159: -400561928784986312
+      component vert_16: 8930084309834581278
+      component vert_160: -8340590403620945354
+      component vert_161: -5905164293313174550
+      component vert_162: -5373555537392612576
+      component vert_163: -808167132053195547
+      component vert_164: 4628393892534085105
+      component vert_165: 7314895737624522858
+      component vert_166: 5609072995346173604
+      component vert_167: 2790682847336722825
+      component vert_168: -345012477540337770
+      component vert_169: 8079937854987494739
+      component vert_17: 5022593618680772830
+      component vert_170: -4096451468955153498
+      component vert_171: -1182142114646332424
+      component vert_172: -7089143210700585431
+      component vert_173: 3401718790381425621
+      component vert_174: 4531029565646332345
+      component vert_175: -4470886153921984852
+      component vert_176: -223456641536430136
+      component vert_177: -4126762913055917184
+      component vert_178: -5114445087447805134
+      component vert_179: -1517667863252016271
+      component vert_18: 3439561298203098154
+      component vert_180: -8796347755570001684
+      component vert_181: 6358589060053511047
+      component vert_182: -5674781809289751826
+      component vert_183: 7857246876301935168
+      component vert_184: -5242069732263523150
+      component vert_185: -7794648137973453578
+      component vert_186: 6195188388718439575
+      component vert_187: -1973748953230718023
+      component vert_188: 2392140103831848642
+      component vert_189: -2552612814903728562
+      component vert_19: -5758519476731667790
+      component vert_190: -4022151645295936025
+      component vert_191: 4569145049261201227
+      component vert_192: -6458371677062124532
+      component vert_193: -722477024567648760
+      component vert_194: -1655525819163210635
+      component vert_195: 780891317030896581
+      component vert_196: -7545997062350427949
+      component vert_197: -7407772119407167360
+      component vert_198: -6830490646473191334
+      component vert_199: 5587883050493880880
+      component vert_2: -6779293561544405341
+      component vert_20: 6193365771679593309
+      component vert_200: 5814517145515298068
+      component vert_201: 3593127921928489295
+      component vert_202: 5301079422864537038
+      component vert_203: -7394360045402682889
+      component vert_204: -2608260881525672825
+      component vert_205: 99866847939395837
+      component vert_206: 1065303986640152185
+      component vert_207: 4050150135793289396
+      component vert_208: -4696321185897728247
+      component vert_209: -7747926773459622688
+      component vert_21: -626655288481939624
+      component vert_22: -708206178084602803
+      component vert_23: 1836376683076706826
+      component vert_24: 3061924332520561746
+      component vert_25: -2786262481367565653
+      component vert_26: 7711864133116741338
+      component vert_27: 2959960109074905116
+      component vert_28: 7527822793027327088
+      component vert_29: 1399749648496358543
+      component vert_3: -5909492151463366696
+      component vert_30: 8798539372014513158
+      component vert_31: -8867460478529891522
+      component vert_32: 930033628907082624
+      component vert_33: 3830415471736883280
+      component vert_34: 4798662407099855401
+      component vert_35: 7989487934628507626
+      component vert_36: -7602396381699743530
+      component vert_37: -4025846924307080652
+      component vert_38: -2354692401864477699
+      component vert_39: 6646339245250743994
+      component vert_4: -3079685836953221587
+      component vert_40: 565154181022990201
+      component vert_41: 7086124287622723266
+      component vert_42: 9131405739449187461
+      component vert_43: -1282900585168730292
+      component vert_44: 9222738963530700517
+      component vert_45: 6037838665656447958
+      component vert_46: -5258162103803208834
+      component vert_47: 3212406848631031321
+      component vert_48: -1108928618231950578
+      component vert_49: 1956072821977128634
+      component vert_5: 9196912281143030386
+      component vert_50: 5456380178209996918
+      component vert_51: 6309845737664839589
+      component vert_52: 2646241928626616873
+      component vert_53: 3519378103012039260
+      component vert_54: 2009633557184470057
+      component vert_55: 3428795301497469630
+      component vert_56: -4983603267454960902
+      component vert_57: 2298135006362208519
+      component vert_58: 3071152579189984523
+      component vert_59: -3749051260604566442
+      component vert_6: 1928640699007483492
+      component vert_60: 3418797190719975783
+      component vert_61: -6375901611061414994
+      component vert_62: -6367261117733202868
+      component vert_63: 4016877281057151058
+      component vert_64: -7495191654084780788
+      component vert_65: 4057755033847023465
+      component vert_66: -663801703942858451
+      component vert_67: 5041222093412040842
+      component vert_68: 8000547585261319434
+      component vert_69: -3256195606901762577
+      component vert_7: 3004304667648276174
+      component vert_70: -6395472449142087456
+      component vert_71: -1124547495667349918
+      component vert_72: -2158808681068672512
+      component vert_73: 7914801844884580564
+      component vert_74: 4200744418495586655
+      component vert_75: 3346271825362379238
+      component vert_76: 7884091483466321385
+      component vert_77: -1224212815164789305
+      component vert_78: 5096708783513300226
+      component vert_79: -5970151244268568611
+      component vert_8: -4777675726886490290
+      component vert_80: 1383035784336121485
+      component vert_81: -5567824249760829906
+      component vert_82: -320218791424016951
+      component vert_83: -6304534631835292846
+      component vert_84: -1116106498170003640
+      component vert_85: 8672752985640980953
+      component vert_86: -6211374384978901111
+      component vert_87: -608509657282360731
+      component vert_88: 4957171942941607092
+      component vert_89: 410030908439105552
+      component vert_9: -5643800965904782479
+      component vert_90: 694333477137433172
+      component vert_91: -6081891612747257622
+      component vert_92: 692169386270836768
+      component vert_93: -2594773049969992301
+      component vert_94: 5855486565953484808
+      component vert_95: 4088040072516221680
+      component vert_96: -6951176044861187593
+      component vert_97: 4993020148237797423
+      component vert_98: -3526481893047630683
+      component vert_99: 6903761994549727832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
