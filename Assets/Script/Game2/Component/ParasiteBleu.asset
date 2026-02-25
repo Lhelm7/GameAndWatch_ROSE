@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edcbc6f8dd360234382b8732048e2ab3, type: 3}
+  m_Name: ParasiteBleu
+  m_EditorClassIdentifier: Assembly-CSharp::ParasiteData
+  colorType: 0
+  sprite: {fileID: -1132252030282005005, guid: 5060690efb05db447bcc3a6b9b4502c6, type: 3}
+  scoreValue: 10
