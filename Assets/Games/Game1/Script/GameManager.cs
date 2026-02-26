@@ -56,7 +56,6 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        // ✅ S'assurer que le temps est normal au démarrage
         Time.timeScale = 1f;
         Debug.Log("[GameManager] Awake - Time.timeScale reset to 1");
     }
@@ -136,7 +135,6 @@ public class GameManager : MonoBehaviour
                 
                 yield return new WaitForSeconds(waveCooldown);
                 
-                // ✅ Vérifier qu'on est toujours en vie
                 if (currentLives > 0)
                 {
                     SetupNewPair();
@@ -151,25 +149,16 @@ public class GameManager : MonoBehaviour
 
     private void EndGame()
     {
-        Debug.Log($"========== GAME OVER ==========");
-        Debug.Log($"[GameManager] Final Score: {currentScore}");
-        Debug.Log($"[GameManager] Victory Threshold: {victoryScoreThreshold}");
-    
         bool isVictory = currentScore >= victoryScoreThreshold;
-    
-        Debug.Log($"[GameManager] {currentScore} >= {victoryScoreThreshold} ? {isVictory}");
-    
-        // ✅ SAUVEGARDER LE SCORE ET LE RÉSULTAT
+        
         GameData.SaveGameResult(currentScore, isVictory);
     
         if (isVictory)
         {
-            Debug.Log($"[GameManager] 🏆 VICTORY! Loading scene: '{victorySceneName}'");
             LoadScene(victorySceneName);
         }
         else
         {
-            Debug.Log($"[GameManager] 💀 DEFEAT! Loading scene: '{gameOverSceneName}'");
             LoadScene(gameOverSceneName);
         }
     }
@@ -180,17 +169,11 @@ public class GameManager : MonoBehaviour
     {
         if (string.IsNullOrEmpty(sceneName))
         {
-            Debug.LogError($"[GameManager] ❌ Scene name is EMPTY or NULL!");
             return;
         }
-        
-        Debug.Log($"[GameManager] 🔄 Loading scene: '{sceneName}'");
-        
-        // ✅ Arrêter le jeu proprement
+      
         gameRunning = false;
         StopAllCoroutines();
-        
-        // ✅ Détruire tous les components restants
         ComponentCollectable[] remainingComponents = FindObjectsOfType<ComponentCollectable>();
         foreach (var comp in remainingComponents)
         {
@@ -200,20 +183,15 @@ public class GameManager : MonoBehaviour
             }
         }
         
-        Debug.Log($"[GameManager] Destroyed {remainingComponents.Length} remaining components");
-        
-        // ✅ S'assurer que le temps est normal
         Time.timeScale = 1f;
         
-        // ✅ Charger la scène
         try
         {
             SceneManager.LoadScene(sceneName);
-            Debug.Log($"[GameManager] ✅ Scene '{sceneName}' loaded successfully");
         }
         catch (System.Exception e)
         {
-            Debug.LogError($"[GameManager] ❌ Failed to load scene '{sceneName}': {e.Message}");
+            
         }
     }
 
@@ -224,7 +202,6 @@ public class GameManager : MonoBehaviour
         if (newDifficultyLevel > difficultyLevel)
         {
             difficultyLevel = newDifficultyLevel;
-            Debug.Log($"[GameManager] 🔥 DIFFICULTY INCREASED! Level: {difficultyLevel}");
         }
     }
 
@@ -256,14 +233,11 @@ public class GameManager : MonoBehaviour
     {
         if (!gameRunning)
         {
-            Debug.LogWarning("[GameManager] SpawnWave called but game not running!");
             yield break;
         }
         
         float currentSpawnDelay = GetCurrentSpawnDelay();
         int componentsToSpawn = GetComponentsToSpawn();
-        
-        Debug.Log($"[GameManager] 🌊 New wave: {componentsToSpawn} components (Score: {currentScore})");
         
         List<int> usedPipesThisWave = new List<int>();
         
@@ -285,10 +259,6 @@ public class GameManager : MonoBehaviour
                 {
                     yield return new WaitForSeconds(currentSpawnDelay);
                 }
-            }
-            else
-            {
-                Debug.LogWarning($"[GameManager] Could not find available pipe for component {i+1}/{componentsToSpawn}");
             }
         }
     }
@@ -327,7 +297,6 @@ public class GameManager : MonoBehaviour
 
     private IEnumerator SpawnComponent(int pipeIndex, ComponentColorData colorData)
     {
-        Debug.Log($"[GameManager] Spawning {colorData.colorName} in pipe {pipeIndex}");
         
         GameObject obj = Instantiate(componentPrefab, spawnPoints[pipeIndex].position, Quaternion.identity);
         ComponentCollectable comp = obj.GetComponent<ComponentCollectable>();
@@ -361,7 +330,6 @@ public class GameManager : MonoBehaviour
     {
         if (!gameRunning)
         {
-            Debug.LogWarning("[GameManager] OnComponentCollected called but game not running");
             return;
         }
         
@@ -370,20 +338,10 @@ public class GameManager : MonoBehaviour
         if (!accepted)
         {
             currentLives--;
-            Debug.Log($"[GameManager] ❌ Wrong color! Lives: {currentLives}");
             
             if (uiManager != null)
             {
                 uiManager.UpdateLives(currentLives);
-            }
-        }
-        else
-        {
-            Debug.Log($"[GameManager] ✅ Correct color collected!");
-            
-            if (player.BothCollected())
-            {
-                Debug.Log($"[GameManager] 🎉 Both colors collected!");
             }
         }
     }

@@ -34,7 +34,6 @@ public class BrokenMenuButton : MonoBehaviour
 
     public void OnButtonClick()
     {
-        // Premier clic
         if (!firstClickDone)
         {
             firstClickDone = true;
@@ -42,7 +41,6 @@ public class BrokenMenuButton : MonoBehaviour
             return;
         }
 
-        // Deuxième clic seulement si dialogue terminé
         if (dialogueFinished)
         {
             LoadGame();
