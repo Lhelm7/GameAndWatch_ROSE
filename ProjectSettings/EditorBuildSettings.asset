@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Games/Scenes/MainMenu.unity
     guid: 28b76654416552346aa0ddd8d15dad40
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Games/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/GameOver.unity
+    path: Assets/Games/Scenes/Delete/GameOver.unity
     guid: e8d9e07cb6eecc946b878c24931c7fb8
   - enabled: 1
-    path: Assets/Scenes/SuccessGame1.unity
+    path: Assets/Games/Scenes/Delete/SuccessGame1.unity
     guid: 294700c0da628844aba6945c002940f2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -1,0 +1,5263 @@
+fileFormatVersion: 2
+guid: 8fd8b47ab7c876e4681af01f528277ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -504151530330827072
+    second: component jaune_0
+  - first:
+      213: -6527505055344265317
+    second: component jaune_1
+  - first:
+      213: 7595461455475544106
+    second: component jaune_2
+  - first:
+      213: 726425474753748315
+    second: component jaune_3
+  - first:
+      213: 5947872310417152326
+    second: component jaune_4
+  - first:
+      213: 8170193814764105576
+    second: component jaune_5
+  - first:
+      213: 2229264149423258956
+    second: component jaune_6
+  - first:
+      213: -2701553171858696545
+    second: component jaune_7
+  - first:
+      213: -8041343004539878607
+    second: component jaune_8
+  - first:
+      213: -4368990555093428236
+    second: component jaune_9
+  - first:
+      213: 3982181048244670962
+    second: component jaune_10
+  - first:
+      213: -8333356864690329902
+    second: component jaune_11
+  - first:
+      213: 404054009547087087
+    second: component jaune_12
+  - first:
+      213: -129355496571739727
+    second: component jaune_13
+  - first:
+      213: -7016745033435944367
+    second: component jaune_14
+  - first:
+      213: 8391697332522011285
+    second: component jaune_15
+  - first:
+      213: -4157895140125824718
+    second: component jaune_16
+  - first:
+      213: -7331462273303955848
+    second: component jaune_17
+  - first:
+      213: -5571196701827115902
+    second: component jaune_18
+  - first:
+      213: -6898773553920699981
+    second: component jaune_19
+  - first:
+      213: 3732277437137860620
+    second: component jaune_20
+  - first:
+      213: -2566976375578292495
+    second: component jaune_21
+  - first:
+      213: -6961508777796556110
+    second: component jaune_22
+  - first:
+      213: 1300563519956280129
+    second: component jaune_23
+  - first:
+      213: 3825399255030940954
+    second: component jaune_24
+  - first:
+      213: 6101894883169971125
+    second: component jaune_25
+  - first:
+      213: 8013008740857318686
+    second: component jaune_26
+  - first:
+      213: -8253174000897191787
+    second: component jaune_27
+  - first:
+      213: -7167729050915909734
+    second: component jaune_28
+  - first:
+      213: 6572358797907689351
+    second: component jaune_29
+  - first:
+      213: 1832541685854694331
+    second: component jaune_30
+  - first:
+      213: 5782539758611559841
+    second: component jaune_31
+  - first:
+      213: 5165895773980955278
+    second: component jaune_32
+  - first:
+      213: -5044704869856801925
+    second: component jaune_33
+  - first:
+      213: 2051812545404104984
+    second: component jaune_34
+  - first:
+      213: 2986766345714180270
+    second: component jaune_35
+  - first:
+      213: 2298435309352556617
+    second: component jaune_36
+  - first:
+      213: 8148203491207308056
+    second: component jaune_37
+  - first:
+      213: 8681415671518748913
+    second: component jaune_38
+  - first:
+      213: 4610133582930277052
+    second: component jaune_39
+  - first:
+      213: 4672924978515165367
+    second: component jaune_40
+  - first:
+      213: -732867248083746238
+    second: component jaune_41
+  - first:
+      213: 6436610397999100059
+    second: component jaune_42
+  - first:
+      213: -7802259681602078687
+    second: component jaune_43
+  - first:
+      213: 1168640485223726777
+    second: component jaune_44
+  - first:
+      213: -3408761829488946369
+    second: component jaune_45
+  - first:
+      213: -4060415743624631855
+    second: component jaune_46
+  - first:
+      213: 5485738579955063258
+    second: component jaune_47
+  - first:
+      213: 5995363247191663924
+    second: component jaune_48
+  - first:
+      213: -1181763893359339211
+    second: component jaune_49
+  - first:
+      213: 3573437716901796113
+    second: component jaune_50
+  - first:
+      213: 1107651833149267293
+    second: component jaune_51
+  - first:
+      213: 412871046127852078
+    second: component jaune_52
+  - first:
+      213: 508805528078680379
+    second: component jaune_53
+  - first:
+      213: -4296149722678105142
+    second: component jaune_54
+  - first:
+      213: 3732635054187242968
+    second: component jaune_55
+  - first:
+      213: -8451964244439847683
+    second: component jaune_56
+  - first:
+      213: -6128376745901336538
+    second: component jaune_57
+  - first:
+      213: 2602721811551968039
+    second: component jaune_58
+  - first:
+      213: -7716067312473203769
+    second: component jaune_59
+  - first:
+      213: -8150754557528901961
+    second: component jaune_60
+  - first:
+      213: 3049997317283279786
+    second: component jaune_61
+  - first:
+      213: 7864432566747860802
+    second: component jaune_62
+  - first:
+      213: 477237996402259667
+    second: component jaune_63
+  - first:
+      213: -2108336157679320580
+    second: component jaune_64
+  - first:
+      213: -2416652305982461263
+    second: component jaune_65
+  - first:
+      213: -1566169783144220182
+    second: component jaune_66
+  - first:
+      213: 4810537720689985231
+    second: component jaune_67
+  - first:
+      213: 8859017999869108086
+    second: component jaune_68
+  - first:
+      213: 5077651499219962886
+    second: component jaune_69
+  - first:
+      213: 4355449189164643956
+    second: component jaune_70
+  - first:
+      213: 8182388323997077492
+    second: component jaune_71
+  - first:
+      213: -1884127659332301521
+    second: component jaune_72
+  - first:
+      213: 4143805303268817243
+    second: component jaune_73
+  - first:
+      213: 3855721752994473816
+    second: component jaune_74
+  - first:
+      213: 4302742759441363622
+    second: component jaune_75
+  - first:
+      213: -6929399850564924475
+    second: component jaune_76
+  - first:
+      213: 8710922870931605178
+    second: component jaune_77
+  - first:
+      213: 7806455191398146366
+    second: component jaune_78
+  - first:
+      213: -3939336515481537366
+    second: component jaune_79
+  - first:
+      213: 8617164135347063037
+    second: component jaune_80
+  - first:
+      213: -1555426170199100648
+    second: component jaune_81
+  - first:
+      213: -3956512646252348155
+    second: component jaune_82
+  - first:
+      213: -249866529030173354
+    second: component jaune_83
+  - first:
+      213: -5997083679108437147
+    second: component jaune_84
+  - first:
+      213: 216187193800616263
+    second: component jaune_85
+  - first:
+      213: -3329764188520358423
+    second: component jaune_86
+  - first:
+      213: -5305242110957832088
+    second: component jaune_87
+  - first:
+      213: 628632961093912028
+    second: component jaune_88
+  - first:
+      213: -899582605441665126
+    second: component jaune_89
+  - first:
+      213: -258333878851607727
+    second: component jaune_90
+  - first:
+      213: 5255743964848699452
+    second: component jaune_91
+  - first:
+      213: -5807021285181719537
+    second: component jaune_92
+  - first:
+      213: 472418021254754036
+    second: component jaune_93
+  - first:
+      213: -3531135297748449484
+    second: component jaune_94
+  - first:
+      213: 1711688121439782840
+    second: component jaune_95
+  - first:
+      213: -2369986161195415431
+    second: component jaune_96
+  - first:
+      213: -7104977721098988156
+    second: component jaune_97
+  - first:
+      213: -1896736712613830455
+    second: component jaune_98
+  - first:
+      213: 8596482226306752088
+    second: component jaune_99
+  - first:
+      213: -7835145324286510696
+    second: component jaune_100
+  - first:
+      213: -6269655238324748976
+    second: component jaune_101
+  - first:
+      213: 8648203087363542520
+    second: component jaune_102
+  - first:
+      213: 8897331427592201581
+    second: component jaune_103
+  - first:
+      213: 2846390984052650326
+    second: component jaune_104
+  - first:
+      213: 4456864591329299400
+    second: component jaune_105
+  - first:
+      213: 2965758087943494353
+    second: component jaune_106
+  - first:
+      213: -2878079199792748842
+    second: component jaune_107
+  - first:
+      213: -6326106909078275605
+    second: component jaune_108
+  - first:
+      213: -3006244491760159544
+    second: component jaune_109
+  - first:
+      213: 5513844082071917393
+    second: component jaune_110
+  - first:
+      213: -5877513986622082407
+    second: component jaune_111
+  - first:
+      213: -2779861681651622521
+    second: component jaune_112
+  - first:
+      213: 5235779458185409679
+    second: component jaune_113
+  - first:
+      213: -6716049547989549888
+    second: component jaune_114
+  - first:
+      213: -6055132394538033943
+    second: component jaune_115
+  - first:
+      213: -4705569699388444080
+    second: component jaune_116
+  - first:
+      213: -6005320417565611612
+    second: component jaune_117
+  - first:
+      213: 5445278784582249753
+    second: component jaune_118
+  - first:
+      213: 4496115403085799908
+    second: component jaune_119
+  - first:
+      213: 3330175829695065299
+    second: component jaune_120
+  - first:
+      213: 7425876507796153826
+    second: component jaune_121
+  - first:
+      213: -2946817265601440573
+    second: component jaune_122
+  - first:
+      213: 1554452182831655401
+    second: component jaune_123
+  - first:
+      213: 7291555676762594778
+    second: component jaune_124
+  - first:
+      213: 6001814283052188516
+    second: component jaune_125
+  - first:
+      213: -7729428036863519740
+    second: component jaune_126
+  - first:
+      213: 1472806861563664318
+    second: component jaune_127
+  - first:
+      213: 2990443497299050316
+    second: component jaune_128
+  - first:
+      213: -4681520400489055217
+    second: component jaune_129
+  - first:
+      213: 1645694274782656591
+    second: component jaune_130
+  - first:
+      213: 176396820987417670
+    second: component jaune_131
+  - first:
+      213: 9109340746572561286
+    second: component jaune_132
+  - first:
+      213: 2802780185100653915
+    second: component jaune_133
+  - first:
+      213: 683578476724797842
+    second: component jaune_134
+  - first:
+      213: 4181821057702299368
+    second: component jaune_135
+  - first:
+      213: -4974496855561398659
+    second: component jaune_136
+  - first:
+      213: 563165623891672649
+    second: component jaune_137
+  - first:
+      213: -3119033878732931642
+    second: component jaune_138
+  - first:
+      213: 148738112151336126
+    second: component jaune_139
+  - first:
+      213: -476570891798064704
+    second: component jaune_140
+  - first:
+      213: 3040319486885421772
+    second: component jaune_141
+  - first:
+      213: 457433260705440331
+    second: component jaune_142
+  - first:
+      213: 2169874114238960099
+    second: component jaune_143
+  - first:
+      213: 8071203771233367772
+    second: component jaune_144
+  - first:
+      213: -4316037414126261941
+    second: component jaune_145
+  - first:
+      213: 1871864495050125511
+    second: component jaune_146
+  - first:
+      213: 8138609237017139937
+    second: component jaune_147
+  - first:
+      213: -6636218195993986945
+    second: component jaune_148
+  - first:
+      213: -1169920554646334568
+    second: component jaune_149
+  - first:
+      213: 1237640206835378862
+    second: component jaune_150
+  - first:
+      213: 47464552964152856
+    second: component jaune_151
+  - first:
+      213: -37485929295531353
+    second: component jaune_152
+  - first:
+      213: -2457435718540907928
+    second: component jaune_153
+  - first:
+      213: 2095622026944238294
+    second: component jaune_154
+  - first:
+      213: 7863681722093595671
+    second: component jaune_155
+  - first:
+      213: -2626261581382817605
+    second: component jaune_156
+  - first:
+      213: 7016380567883996090
+    second: component jaune_157
+  - first:
+      213: -6066794139513096666
+    second: component jaune_158
+  - first:
+      213: 9156076678047012469
+    second: component jaune_159
+  - first:
+      213: 8296887291811967422
+    second: component jaune_160
+  - first:
+      213: -6531871417740583063
+    second: component jaune_161
+  - first:
+      213: 570119367408745323
+    second: component jaune_162
+  - first:
+      213: -7403892125055158395
+    second: component jaune_163
+  - first:
+      213: 7716406902337911392
+    second: component jaune_164
+  - first:
+      213: 2782957855369186030
+    second: component jaune_165
+  - first:
+      213: 8843258518853170422
+    second: component jaune_166
+  - first:
+      213: 2491254183280211663
+    second: component jaune_167
+  - first:
+      213: -5592303438428452796
+    second: component jaune_168
+  - first:
+      213: -4570995544870663589
+    second: component jaune_169
+  - first:
+      213: -639187211811306461
+    second: component jaune_170
+  - first:
+      213: 7274573459318431157
+    second: component jaune_171
+  - first:
+      213: -2854200837463551055
+    second: component jaune_172
+  - first:
+      213: -7169657259194469339
+    second: component jaune_173
+  - first:
+      213: 286362333956975082
+    second: component jaune_174
+  - first:
+      213: 1556581819182930006
+    second: component jaune_175
+  - first:
+      213: -170440054193328207
+    second: component jaune_176
+  - first:
+      213: -4642239470670018022
+    second: component jaune_177
+  - first:
+      213: -2824340667023204664
+    second: component jaune_178
+  - first:
+      213: 1760131339231068433
+    second: component jaune_179
+  - first:
+      213: 5924087114364061592
+    second: component jaune_180
+  - first:
+      213: -8155571228814429754
+    second: component jaune_181
+  - first:
+      213: 6100215178448553605
+    second: component jaune_182
+  - first:
+      213: 7576890838822047728
+    second: component jaune_183
+  - first:
+      213: -2109128248369178291
+    second: component jaune_184
+  - first:
+      213: 2127861247623501844
+    second: component jaune_185
+  - first:
+      213: 5565038210458334371
+    second: component jaune_186
+  - first:
+      213: -8376241248918656312
+    second: component jaune_187
+  - first:
+      213: -3586270079603356624
+    second: component jaune_188
+  - first:
+      213: -3573903476331558923
+    second: component jaune_189
+  - first:
+      213: 761825549888815417
+    second: component jaune_190
+  - first:
+      213: 2062619191199338931
+    second: component jaune_191
+  - first:
+      213: 8977716052276839395
+    second: component jaune_192
+  - first:
+      213: 5123928711121807225
+    second: component jaune_193
+  - first:
+      213: 8762046112914767404
+    second: component jaune_194
+  - first:
+      213: -2670163841027035932
+    second: component jaune_195
+  - first:
+      213: -4747075290047310461
+    second: component jaune_196
+  - first:
+      213: 8949721606475021999
+    second: component jaune_197
+  - first:
+      213: 2483251775207839296
+    second: component jaune_198
+  - first:
+      213: -5873037604689324196
+    second: component jaune_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: component jaune_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c659a1bad4e009f0800000000000000
+      internalID: -504151530330827072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_1
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3477
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9773a28cb4a965a0800000000000000
+      internalID: -6527505055344265317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_2
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 3457
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a209ac683ff786960800000000000000
+      internalID: 7595461455475544106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_3
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 2494
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ddd7ade18c41a00800000000000000
+      internalID: 726425474753748315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_4
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2473
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649dbc76a561b8250800000000000000
+      internalID: 5947872310417152326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2437
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fab1bacfb526170800000000000000
+      internalID: 8170193814764105576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_6
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2442
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4df2e8ceefefee10800000000000000
+      internalID: 2229264149423258956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_7
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2437
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96588124b7228ad0800000000000000
+      internalID: -2701553171858696545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_8
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2437
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13304596429676090800000000000000
+      internalID: -8041343004539878607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_9
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2437
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f79e90fc3a3e53c0800000000000000
+      internalID: -4368990555093428236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_10
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2422
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f19aeb909c834730800000000000000
+      internalID: 3982181048244670962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_11
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2081
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6e1956518f95c80800000000000000
+      internalID: -8333356864690329902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_12
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1925
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec502d1bfc7b9500800000000000000
+      internalID: 404054009547087087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1757
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1e8197cdf643ef0800000000000000
+      internalID: -129355496571739727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_14
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1756
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a609281938f9e90800000000000000
+      internalID: -7016745033435944367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_15
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1756
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a4197434c457470800000000000000
+      internalID: 8391697332522011285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_16
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1757
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392a7746603c46c0800000000000000
+      internalID: -4157895140125824718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_17
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1757
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763a8bf7e9614a90800000000000000
+      internalID: -7331462273303955848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_18
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 1757
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28454cdfd122fa2b0800000000000000
+      internalID: -5571196701827115902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_19
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1757
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b192b40102a240a0800000000000000
+      internalID: -6898773553920699981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_20
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1764
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08becbfd86bbc330800000000000000
+      internalID: 3732277437137860620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_21
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1751
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe06da3694406cd0800000000000000
+      internalID: -2566976375578292495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1733
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba2ca676a0c36f90800000000000000
+      internalID: -6961508777796556110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1566
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14363d671a78c0210800000000000000
+      internalID: 1300563519956280129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_24
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1572
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c928ca5c861530800000000000000
+      internalID: 3825399255030940954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbae1821194ea450800000000000000
+      internalID: 6101894883169971125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_26
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1559
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d86ecbefce33f60800000000000000
+      internalID: 8013008740857318686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_27
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 1552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590980f29f5d67d80800000000000000
+      internalID: -8253174000897191787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1536
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fc8e9876c178c90800000000000000
+      internalID: -7167729050915909734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_29
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1491
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f73bd3185b53b50800000000000000
+      internalID: 6572358797907689351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_30
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1466
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe67d34fe7e6910800000000000000
+      internalID: 1832541685854694331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1378
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a57d93f545bf3050800000000000000
+      internalID: 5782539758611559841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_32
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1422
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8293da16d2f0b740800000000000000
+      internalID: 5165895773980955278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_33
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1423
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b808b16ab9df9b0800000000000000
+      internalID: -5044704869856801925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_34
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1425
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811708a93a0897c10800000000000000
+      internalID: 2051812545404104984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_35
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1435
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0a267ba20237920800000000000000
+      internalID: 2986766345714180270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_36
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1415
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9489c297cbea5ef10800000000000000
+      internalID: 2298435309352556617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1425
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813620b77eb341170800000000000000
+      internalID: 8148203491207308056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1425
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f06260ae859a7870800000000000000
+      internalID: 8681415671518748913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_39
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1425
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb278a1711c7aff30800000000000000
+      internalID: 4610133582930277052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1408
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0427e728099d040800000000000000
+      internalID: 4672924978515165367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_41
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1425
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242437aee1554d5f0800000000000000
+      internalID: -732867248083746238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_42
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1425
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90725aed0f635950800000000000000
+      internalID: 6436610397999100059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_43
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1425
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12871c0682ec8b390800000000000000
+      internalID: -7802259681602078687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1411
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be76ef5458d73010800000000000000
+      internalID: 1168640485223726777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33966d2d25a1b0d0800000000000000
+      internalID: -3408761829488946369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_46
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1403
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9a9d8e46186a7c0800000000000000
+      internalID: -4060415743624631855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1381
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad990ec7c22412c40800000000000000
+      internalID: 5485738579955063258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1389
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435aa48cb1fc33350800000000000000
+      internalID: 5995363247191663924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1321
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5391fef0008899fe0800000000000000
+      internalID: -1181763893359339211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1333
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191aeeaba6679130800000000000000
+      internalID: 3573437716901796113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1236
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1ca1497b2f5f00800000000000000
+      internalID: 1107651833149267293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_52
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1264
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a9e7a6700dab500800000000000000
+      internalID: 412871046127852078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_53
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1266
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3182e89ee3af0700800000000000000
+      internalID: 508805528078680379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_54
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1256
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbe0e5d6920164c0800000000000000
+      internalID: -4296149722678105142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_55
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1236
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d560013ecbfcc330800000000000000
+      internalID: 3732635054187242968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1226
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc2cd3dc4794ba80800000000000000
+      internalID: -8451964244439847683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_57
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1220
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62859c2b1d1a3faa0800000000000000
+      internalID: -6128376745901336538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_58
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1175
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b57b2a2b9be1420800000000000000
+      internalID: 2602721811551968039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_59
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 1184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb180929a50be490800000000000000
+      internalID: -7716067312473203769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1134
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6f71b1ae3b2ee80800000000000000
+      internalID: -8150754557528901961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_61
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1112
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa370968664c35a20800000000000000
+      internalID: 3049997317283279786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_62
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 1132
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f050d70c3142d60800000000000000
+      internalID: 7864432566747860802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_63
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 1113
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d630e0ed6d7f9600800000000000000
+      internalID: 477237996402259667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_64
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1100
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1896e5f6fadb2e0800000000000000
+      internalID: -2108336157679320580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_65
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1077
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba694c1883567ed0800000000000000
+      internalID: -2416652305982461263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_66
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 1084
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9fcb151e8d34ae0800000000000000
+      internalID: -1566169783144220182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_67
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1077
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60854d19672c240800000000000000
+      internalID: 4810537720689985231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_68
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1029
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f5dfc0fed81fa70800000000000000
+      internalID: 8859017999869108086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_69
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1041
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4c30d221777640800000000000000
+      internalID: 5077651499219962886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_70
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 872
+        width: 96
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476fb6d16f9a17c30800000000000000
+      internalID: 4355449189164643956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_71
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 969
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff462a14dead8170800000000000000
+      internalID: 8182388323997077492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_72
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 924
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d820a50eb3ad5e0800000000000000
+      internalID: -1884127659332301521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 915
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59b7bfe7f0c18930800000000000000
+      internalID: 4143805303268817243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_74
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 926
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8576bff7186428530800000000000000
+      internalID: 3855721752994473816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_75
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f2682eb966bb30800000000000000
+      internalID: 4302742759441363622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_76
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 927
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbce68ac83d5df90800000000000000
+      internalID: -6929399850564924475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_77
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 935
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab644bbd23a63e870800000000000000
+      internalID: 8710922870931605178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_78
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 935
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e316a4ed2a9165c60800000000000000
+      internalID: 7806455191398146366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 913
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa47ff78f4aa459c0800000000000000
+      internalID: -3939336515481537366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_80
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 892
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8099a1021569770800000000000000
+      internalID: 8617164135347063037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_81
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 911
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813bfe2a3240a6ae0800000000000000
+      internalID: -1555426170199100648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_82
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 922
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db9c2f5b4a719c0800000000000000
+      internalID: -3956512646252348155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_83
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 920
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d85e737bb488cf0800000000000000
+      internalID: -249866529030173354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 882
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be272fa2416cca0800000000000000
+      internalID: -5997083679108437147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_85
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 899
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749697b7b1d000300800000000000000
+      internalID: 216187193800616263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_86
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 896
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed5d65cc1d4ac1d0800000000000000
+      internalID: -3329764188520358423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_87
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 899
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8683ae0986eff56b0800000000000000
+      internalID: -5305242110957832088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 872
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5ca14f85a59b800800000000000000
+      internalID: 628632961093912028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_89
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 868
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a977784f26a0483f0800000000000000
+      internalID: -899582605441665126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_90
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 870
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153e995b4b63a6cf0800000000000000
+      internalID: -258333878851607727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_91
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38b5373a4720f840800000000000000
+      internalID: 5255743964848699452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_92
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 813
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7c9578e0596fa0800000000000000
+      internalID: -5807021285181719537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_93
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 846
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fee166ffad5e8600800000000000000
+      internalID: 472418021254754036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_94
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 814
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4374cdbc723eefec0800000000000000
+      internalID: -3531135297748449484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_95
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 820
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b78cac074321c710800000000000000
+      internalID: 1711688121439782840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_96
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 800
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9780b53a42e1c1fd0800000000000000
+      internalID: -2369986161195415431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 766
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48594dc086c066d90800000000000000
+      internalID: -7104977721098988156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_98
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 811
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0e53c52007da5e0800000000000000
+      internalID: -1896736712613830455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_99
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 807
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e19f8e907dc4770800000000000000
+      internalID: 8596482226306752088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_100
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 814
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899f65607d8f34390800000000000000
+      internalID: -7835145324286510696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 771
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d7c7f57c5bdf8a0800000000000000
+      internalID: -6269655238324748976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_102
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 723
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd8db743e6940870800000000000000
+      internalID: 8648203087363542520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 745
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d656d861bcba97b70800000000000000
+      internalID: 8897331427592201581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_104
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 745
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6513558e489608720800000000000000
+      internalID: 2846390984052650326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_105
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 745
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb033a7bb6f9dd30800000000000000
+      internalID: 4456864591329299400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_106
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 716
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da1d99844d782920800000000000000
+      internalID: 2965758087943494353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_107
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 721
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a9ec67320f08d0800000000000000
+      internalID: -2878079199792748842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_108
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 714
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9be3988472538a0800000000000000
+      internalID: -6326106909078275605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 701
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c439a0009ca746d0800000000000000
+      internalID: -3006244491760159544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_110
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 702
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15359c2aafb158c40800000000000000
+      internalID: 5513844082071917393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_111
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 702
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99230096b20ee6ea0800000000000000
+      internalID: -5877513986622082407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_112
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 701
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5f646782fb69d0800000000000000
+      internalID: -2779861681651622521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_113
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 660
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84bd674da939a840800000000000000
+      internalID: 5235779458185409679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_114
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 677
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccf82ee48ccbc2a0800000000000000
+      internalID: -6716049547989549888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 637
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec999b2b29d7fba0800000000000000
+      internalID: -6055132394538033943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_116
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 646
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0523c122a4572beb0800000000000000
+      internalID: -4705569699388444080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_117
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 589
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e994d5e0d8aca0800000000000000
+      internalID: -6005320417565611612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_118
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 646
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91deef94434819b40800000000000000
+      internalID: 5445278784582249753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_119
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 630
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1671e3329656e30800000000000000
+      internalID: 4496115403085799908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_120
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 630
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dce098e549273e20800000000000000
+      internalID: 3330175829695065299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_121
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 617
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5ab1107530e0760800000000000000
+      internalID: 7425876507796153826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_122
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 582
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c496d15f4dca17d0800000000000000
+      internalID: -2946817265601440573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_123
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 560
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9e2024606829510800000000000000
+      internalID: 1554452182831655401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_124
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 593
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addda65714fc03560800000000000000
+      internalID: 7291555676762594778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_125
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 588
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463013d9a4aba4350800000000000000
+      internalID: 6001814283052188516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_126
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 576
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041ec9172e8bb490800000000000000
+      internalID: -7729428036863519740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_127
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 557
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7924e8906707410800000000000000
+      internalID: 1472806861563664318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_128
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 562
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff2694480308920800000000000000
+      internalID: 2990443497299050316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_129
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 544
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cfa10eff5e70fb0800000000000000
+      internalID: -4681520400489055217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 546
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f487051493ea6d610800000000000000
+      internalID: 1645694274782656591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_131
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 533
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644967e59ffa27200800000000000000
+      internalID: 176396820987417670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 531
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf2794521ea6e70800000000000000
+      internalID: 9109340746572561286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_133
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 445
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b559d648ab975e620800000000000000
+      internalID: 2802780185100653915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_134
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 531
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291c849b00f8c7900800000000000000
+      internalID: 683578476724797842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_135
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 484
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e608928810d80a30800000000000000
+      internalID: 4181821057702299368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_136
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 480
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7617f3477907fab0800000000000000
+      internalID: -4974496855561398659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_137
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 480
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e36c1b624c0d700800000000000000
+      internalID: 563165623891672649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_138
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 466
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf6bf6637f6b4d0800000000000000
+      internalID: -3119033878732931642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_139
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 459
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b753668c601200800000000000000
+      internalID: 148738112151336126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_140
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1d5148c41e269f0800000000000000
+      internalID: -476570891798064704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_141
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 452
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e08b0772613a20800000000000000
+      internalID: 3040319486885421772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_142
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 423
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ebc48021295600800000000000000
+      internalID: 457433260705440331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_143
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 420
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1578aa201fc1e10800000000000000
+      internalID: 2169874114238960099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_144
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 432
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6782e111da20070800000000000000
+      internalID: 8071203771233367772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 440
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4965b5d6da5a14c0800000000000000
+      internalID: -4316037414126261941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_146
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 427
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0f02737d23af910800000000000000
+      internalID: 1871864495050125511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_147
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 425
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea9e1a1bf522f070800000000000000
+      internalID: 8138609237017139937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 391
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787bcff5ba67e3a0800000000000000
+      internalID: -6636218195993986945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_149
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 320
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89390ec347b93cfe0800000000000000
+      internalID: -1169920554646334568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_150
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 313
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae928f53bfc2110800000000000000
+      internalID: 1237640206835378862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_151
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 289
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ed9da62c0a8a000800000000000000
+      internalID: 47464552964152856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_152
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 291
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2b344feb2da7ff0800000000000000
+      internalID: -37485929295531353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_153
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 303
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a230aeb3f65edd0800000000000000
+      internalID: -2457435718540907928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_154
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 1338
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2de736125251d10800000000000000
+      internalID: 2095622026944238294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_155
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 271
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cee18dcd8612d60800000000000000
+      internalID: 7863681722093595671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_156
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 289
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8eb6a9105ad8bd0800000000000000
+      internalID: -2626261581382817605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_157
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 296
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbddadb3f03f5160800000000000000
+      internalID: 7016380567883996090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_158
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 221
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62676e49fda6ecba0800000000000000
+      internalID: -6066794139513096666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_159
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 210
+        width: 132
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761b3b4a3be01f70800000000000000
+      internalID: 9156076678047012469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_160
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 206
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1b7e97807742370800000000000000
+      internalID: 8296887291811967422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_161
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 257
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f9b0b8d812a55a0800000000000000
+      internalID: -6531871417740583063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_162
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 188
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf7f54b8879e700800000000000000
+      internalID: 570119367408745323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_163
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 259
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58776caf657104990800000000000000
+      internalID: -7403892125055158395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_164
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 242
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3934c13f261b60800000000000000
+      internalID: 7716406902337911392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 207
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeac92abc6d0f9620800000000000000
+      internalID: 2782957855369186030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_166
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 242
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4b031f4c099ba70800000000000000
+      internalID: 8843258518853170422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_167
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 212
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc67f9ffa76b29220800000000000000
+      internalID: 2491254183280211663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_168
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 231
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c64ce6a52462b0800000000000000
+      internalID: -5592303438428452796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_169
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 226
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a471625cf8090c0800000000000000
+      internalID: -4570995544870663589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_170
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 228
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c30f0e962127f0800000000000000
+      internalID: -639187211811306461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_171
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 199
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdd827d40a74f460800000000000000
+      internalID: 7274573459318431157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_172
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 188
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3dc55e577d368d0800000000000000
+      internalID: -2854200837463551055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_173
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 185
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524b96095b2408c90800000000000000
+      internalID: -7169657259194469339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_174
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 158
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9ae88860d59f300800000000000000
+      internalID: 286362333956975082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_175
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 142
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658da3cdae61a9510800000000000000
+      internalID: 1556581819182930006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_176
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 127
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfee4a7ca972adf0800000000000000
+      internalID: -170440054193328207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_177
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a8a6c0cc3739fb0800000000000000
+      internalID: -4642239470670018022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_178
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 127
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce5469902dedc8d0800000000000000
+      internalID: -2824340667023204664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_179
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 122
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11186e0a02e3d6810800000000000000
+      internalID: 1760131339231068433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_180
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8978326e7d5963250800000000000000
+      internalID: 5924087114364061592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_181
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 21
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1be1e6d2791de80800000000000000
+      internalID: -8155571228814429754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_182
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5864fdc626158a450800000000000000
+      internalID: 6100215178448553605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_183
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 22
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff46e5e216862960800000000000000
+      internalID: 7576890838822047728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_184
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d499632680fdab2e0800000000000000
+      internalID: -2109128248369178291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_185
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181be3e78ea78d10800000000000000
+      internalID: 2127861247623501844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_186
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a438df74ccfa3d40800000000000000
+      internalID: 5565038210458334371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_187
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caaa3d96fc91cb80800000000000000
+      internalID: -8376241248918656312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_188
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c41ac0d520b3ec0800000000000000
+      internalID: -3586270079603356624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_189
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f749bf39b1f66ec0800000000000000
+      internalID: -3573903476331558923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_190
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93180f12d4c829a00800000000000000
+      internalID: 761825549888815417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_191
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 9
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11756e935ef9c10800000000000000
+      internalID: 2062619191199338931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_192
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 0
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3884efe21479c70800000000000000
+      internalID: 8977716052276839395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_193
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97727d8d30adb1740800000000000000
+      internalID: 5123928711121807225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_194
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 9
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e70e1348a099970800000000000000
+      internalID: 8762046112914767404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_195
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecad7b322ca1fad0800000000000000
+      internalID: -2670163841027035932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component jaune_196
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 0
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38512bebc200f1eb0800000000000000
+      internalID: -4747075290047310461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 767f549e00ce9f24eb10fdb91e417948
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      component jaune_0: -504151530330827072
+      component jaune_1: -6527505055344265317
+      component jaune_10: 3982181048244670962
+      component jaune_100: -7835145324286510696
+      component jaune_101: -6269655238324748976
+      component jaune_102: 8648203087363542520
+      component jaune_103: 8897331427592201581
+      component jaune_104: 2846390984052650326
+      component jaune_105: 4456864591329299400
+      component jaune_106: 2965758087943494353
+      component jaune_107: -2878079199792748842
+      component jaune_108: -6326106909078275605
+      component jaune_109: -3006244491760159544
+      component jaune_11: -8333356864690329902
+      component jaune_110: 5513844082071917393
+      component jaune_111: -5877513986622082407
+      component jaune_112: -2779861681651622521
+      component jaune_113: 5235779458185409679
+      component jaune_114: -6716049547989549888
+      component jaune_115: -6055132394538033943
+      component jaune_116: -4705569699388444080
+      component jaune_117: -6005320417565611612
+      component jaune_118: 5445278784582249753
+      component jaune_119: 4496115403085799908
+      component jaune_12: 404054009547087087
+      component jaune_120: 3330175829695065299
+      component jaune_121: 7425876507796153826
+      component jaune_122: -2946817265601440573
+      component jaune_123: 1554452182831655401
+      component jaune_124: 7291555676762594778
+      component jaune_125: 6001814283052188516
+      component jaune_126: -7729428036863519740
+      component jaune_127: 1472806861563664318
+      component jaune_128: 2990443497299050316
+      component jaune_129: -4681520400489055217
+      component jaune_13: -129355496571739727
+      component jaune_130: 1645694274782656591
+      component jaune_131: 176396820987417670
+      component jaune_132: 9109340746572561286
+      component jaune_133: 2802780185100653915
+      component jaune_134: 683578476724797842
+      component jaune_135: 4181821057702299368
+      component jaune_136: -4974496855561398659
+      component jaune_137: 563165623891672649
+      component jaune_138: -3119033878732931642
+      component jaune_139: 148738112151336126
+      component jaune_14: -7016745033435944367
+      component jaune_140: -476570891798064704
+      component jaune_141: 3040319486885421772
+      component jaune_142: 457433260705440331
+      component jaune_143: 2169874114238960099
+      component jaune_144: 8071203771233367772
+      component jaune_145: -4316037414126261941
+      component jaune_146: 1871864495050125511
+      component jaune_147: 8138609237017139937
+      component jaune_148: -6636218195993986945
+      component jaune_149: -1169920554646334568
+      component jaune_15: 8391697332522011285
+      component jaune_150: 1237640206835378862
+      component jaune_151: 47464552964152856
+      component jaune_152: -37485929295531353
+      component jaune_153: -2457435718540907928
+      component jaune_154: 2095622026944238294
+      component jaune_155: 7863681722093595671
+      component jaune_156: -2626261581382817605
+      component jaune_157: 7016380567883996090
+      component jaune_158: -6066794139513096666
+      component jaune_159: 9156076678047012469
+      component jaune_16: -4157895140125824718
+      component jaune_160: 8296887291811967422
+      component jaune_161: -6531871417740583063
+      component jaune_162: 570119367408745323
+      component jaune_163: -7403892125055158395
+      component jaune_164: 7716406902337911392
+      component jaune_165: 2782957855369186030
+      component jaune_166: 8843258518853170422
+      component jaune_167: 2491254183280211663
+      component jaune_168: -5592303438428452796
+      component jaune_169: -4570995544870663589
+      component jaune_17: -7331462273303955848
+      component jaune_170: -639187211811306461
+      component jaune_171: 7274573459318431157
+      component jaune_172: -2854200837463551055
+      component jaune_173: -7169657259194469339
+      component jaune_174: 286362333956975082
+      component jaune_175: 1556581819182930006
+      component jaune_176: -170440054193328207
+      component jaune_177: -4642239470670018022
+      component jaune_178: -2824340667023204664
+      component jaune_179: 1760131339231068433
+      component jaune_18: -5571196701827115902
+      component jaune_180: 5924087114364061592
+      component jaune_181: -8155571228814429754
+      component jaune_182: 6100215178448553605
+      component jaune_183: 7576890838822047728
+      component jaune_184: -2109128248369178291
+      component jaune_185: 2127861247623501844
+      component jaune_186: 5565038210458334371
+      component jaune_187: -8376241248918656312
+      component jaune_188: -3586270079603356624
+      component jaune_189: -3573903476331558923
+      component jaune_19: -6898773553920699981
+      component jaune_190: 761825549888815417
+      component jaune_191: 2062619191199338931
+      component jaune_192: 8977716052276839395
+      component jaune_193: 5123928711121807225
+      component jaune_194: 8762046112914767404
+      component jaune_195: -2670163841027035932
+      component jaune_196: -4747075290047310461
+      component jaune_2: 7595461455475544106
+      component jaune_20: 3732277437137860620
+      component jaune_21: -2566976375578292495
+      component jaune_22: -6961508777796556110
+      component jaune_23: 1300563519956280129
+      component jaune_24: 3825399255030940954
+      component jaune_25: 6101894883169971125
+      component jaune_26: 8013008740857318686
+      component jaune_27: -8253174000897191787
+      component jaune_28: -7167729050915909734
+      component jaune_29: 6572358797907689351
+      component jaune_3: 726425474753748315
+      component jaune_30: 1832541685854694331
+      component jaune_31: 5782539758611559841
+      component jaune_32: 5165895773980955278
+      component jaune_33: -5044704869856801925
+      component jaune_34: 2051812545404104984
+      component jaune_35: 2986766345714180270
+      component jaune_36: 2298435309352556617
+      component jaune_37: 8148203491207308056
+      component jaune_38: 8681415671518748913
+      component jaune_39: 4610133582930277052
+      component jaune_4: 5947872310417152326
+      component jaune_40: 4672924978515165367
+      component jaune_41: -732867248083746238
+      component jaune_42: 6436610397999100059
+      component jaune_43: -7802259681602078687
+      component jaune_44: 1168640485223726777
+      component jaune_45: -3408761829488946369
+      component jaune_46: -4060415743624631855
+      component jaune_47: 5485738579955063258
+      component jaune_48: 5995363247191663924
+      component jaune_49: -1181763893359339211
+      component jaune_5: 8170193814764105576
+      component jaune_50: 3573437716901796113
+      component jaune_51: 1107651833149267293
+      component jaune_52: 412871046127852078
+      component jaune_53: 508805528078680379
+      component jaune_54: -4296149722678105142
+      component jaune_55: 3732635054187242968
+      component jaune_56: -8451964244439847683
+      component jaune_57: -6128376745901336538
+      component jaune_58: 2602721811551968039
+      component jaune_59: -7716067312473203769
+      component jaune_6: 2229264149423258956
+      component jaune_60: -8150754557528901961
+      component jaune_61: 3049997317283279786
+      component jaune_62: 7864432566747860802
+      component jaune_63: 477237996402259667
+      component jaune_64: -2108336157679320580
+      component jaune_65: -2416652305982461263
+      component jaune_66: -1566169783144220182
+      component jaune_67: 4810537720689985231
+      component jaune_68: 8859017999869108086
+      component jaune_69: 5077651499219962886
+      component jaune_7: -2701553171858696545
+      component jaune_70: 4355449189164643956
+      component jaune_71: 8182388323997077492
+      component jaune_72: -1884127659332301521
+      component jaune_73: 4143805303268817243
+      component jaune_74: 3855721752994473816
+      component jaune_75: 4302742759441363622
+      component jaune_76: -6929399850564924475
+      component jaune_77: 8710922870931605178
+      component jaune_78: 7806455191398146366
+      component jaune_79: -3939336515481537366
+      component jaune_8: -8041343004539878607
+      component jaune_80: 8617164135347063037
+      component jaune_81: -1555426170199100648
+      component jaune_82: -3956512646252348155
+      component jaune_83: -249866529030173354
+      component jaune_84: -5997083679108437147
+      component jaune_85: 216187193800616263
+      component jaune_86: -3329764188520358423
+      component jaune_87: -5305242110957832088
+      component jaune_88: 628632961093912028
+      component jaune_89: -899582605441665126
+      component jaune_9: -4368990555093428236
+      component jaune_90: -258333878851607727
+      component jaune_91: 5255743964848699452
+      component jaune_92: -5807021285181719537
+      component jaune_93: 472418021254754036
+      component jaune_94: -3531135297748449484
+      component jaune_95: 1711688121439782840
+      component jaune_96: -2369986161195415431
+      component jaune_97: -7104977721098988156
+      component jaune_98: -1896736712613830455
+      component jaune_99: 8596482226306752088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

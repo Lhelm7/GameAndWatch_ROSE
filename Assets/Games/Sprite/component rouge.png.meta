@@ -1,0 +1,2510 @@
+fileFormatVersion: 2
+guid: b7373c0fda66e604188e2bde917e31a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7784344130213837795
+    second: component rouge_0
+  - first:
+      213: -347023608562101258
+    second: component rouge_1
+  - first:
+      213: 3621960630851065439
+    second: component rouge_2
+  - first:
+      213: -1559652998867670650
+    second: component rouge_3
+  - first:
+      213: -6081097904205563863
+    second: component rouge_4
+  - first:
+      213: 6828720404834243625
+    second: component rouge_5
+  - first:
+      213: -1459583284941741438
+    second: component rouge_6
+  - first:
+      213: -7352773856598954998
+    second: component rouge_7
+  - first:
+      213: 7592079495760458502
+    second: component rouge_8
+  - first:
+      213: 4885597559959219221
+    second: component rouge_9
+  - first:
+      213: 5768637944602180704
+    second: component rouge_10
+  - first:
+      213: 3663305803509135389
+    second: component rouge_11
+  - first:
+      213: 2930140637878020075
+    second: component rouge_12
+  - first:
+      213: 6419000506301771585
+    second: component rouge_13
+  - first:
+      213: -1616583144210310692
+    second: component rouge_14
+  - first:
+      213: 3998963063385561500
+    second: component rouge_15
+  - first:
+      213: 9007620805090382236
+    second: component rouge_16
+  - first:
+      213: -6060206422577518421
+    second: component rouge_17
+  - first:
+      213: 203195792225341052
+    second: component rouge_18
+  - first:
+      213: 869269808724538221
+    second: component rouge_19
+  - first:
+      213: -7555669112795932400
+    second: component rouge_20
+  - first:
+      213: -987417253577076221
+    second: component rouge_21
+  - first:
+      213: 4923198345551884130
+    second: component rouge_22
+  - first:
+      213: -1278995026798820872
+    second: component rouge_23
+  - first:
+      213: 675565436203542656
+    second: component rouge_24
+  - first:
+      213: -4096663005099320457
+    second: component rouge_25
+  - first:
+      213: 4341031834970811477
+    second: component rouge_26
+  - first:
+      213: -4500230271592505816
+    second: component rouge_27
+  - first:
+      213: 8722683325269433328
+    second: component rouge_28
+  - first:
+      213: 6542610326485001332
+    second: component rouge_29
+  - first:
+      213: 7631076119050188861
+    second: component rouge_30
+  - first:
+      213: -815707479474657742
+    second: component rouge_31
+  - first:
+      213: -5579902673466859194
+    second: component rouge_32
+  - first:
+      213: 350506108425242635
+    second: component rouge_33
+  - first:
+      213: -2816463117783656284
+    second: component rouge_34
+  - first:
+      213: 2844229931509601679
+    second: component rouge_35
+  - first:
+      213: -6410543504608016350
+    second: component rouge_36
+  - first:
+      213: 4759785208787591508
+    second: component rouge_37
+  - first:
+      213: 1765172276306071692
+    second: component rouge_38
+  - first:
+      213: 2576274733300805140
+    second: component rouge_39
+  - first:
+      213: 5682622213751274442
+    second: component rouge_40
+  - first:
+      213: -2576329638922201773
+    second: component rouge_41
+  - first:
+      213: -6691681352941316554
+    second: component rouge_42
+  - first:
+      213: -4502733412696474037
+    second: component rouge_43
+  - first:
+      213: 5924277873956601191
+    second: component rouge_44
+  - first:
+      213: 1767754418640618180
+    second: component rouge_45
+  - first:
+      213: -2915858809240866360
+    second: component rouge_46
+  - first:
+      213: 7540264199183157225
+    second: component rouge_47
+  - first:
+      213: -6160304399196537125
+    second: component rouge_48
+  - first:
+      213: -6833370967049038894
+    second: component rouge_49
+  - first:
+      213: 6640003518321077003
+    second: component rouge_50
+  - first:
+      213: -7328723025031664705
+    second: component rouge_51
+  - first:
+      213: 2731372757195847230
+    second: component rouge_52
+  - first:
+      213: 9052431479733560586
+    second: component rouge_53
+  - first:
+      213: -1734412909190400340
+    second: component rouge_54
+  - first:
+      213: 7445043201699029393
+    second: component rouge_55
+  - first:
+      213: 2621573801254752539
+    second: component rouge_56
+  - first:
+      213: 3079631997450457815
+    second: component rouge_57
+  - first:
+      213: 8263193978143261475
+    second: component rouge_58
+  - first:
+      213: 7431013671560514121
+    second: component rouge_59
+  - first:
+      213: -309498162307265653
+    second: component rouge_60
+  - first:
+      213: 4354774672812638945
+    second: component rouge_61
+  - first:
+      213: 5708376413107847492
+    second: component rouge_62
+  - first:
+      213: 8185156937595144231
+    second: component rouge_63
+  - first:
+      213: -122488674393198018
+    second: component rouge_64
+  - first:
+      213: 3847584843492309967
+    second: component rouge_65
+  - first:
+      213: -7802933409630837941
+    second: component rouge_66
+  - first:
+      213: 1710786816794909568
+    second: component rouge_67
+  - first:
+      213: -8614395111847991855
+    second: component rouge_68
+  - first:
+      213: 6993478118000084067
+    second: component rouge_69
+  - first:
+      213: 8204410289387208791
+    second: component rouge_70
+  - first:
+      213: -5061683989886126489
+    second: component rouge_71
+  - first:
+      213: -3445756671579434915
+    second: component rouge_72
+  - first:
+      213: -6806271621542640155
+    second: component rouge_73
+  - first:
+      213: -1418731404733061729
+    second: component rouge_74
+  - first:
+      213: -7863052725344851563
+    second: component rouge_75
+  - first:
+      213: 3895093004223774515
+    second: component rouge_76
+  - first:
+      213: 7146516671078029234
+    second: component rouge_77
+  - first:
+      213: -5871240477252900345
+    second: component rouge_78
+  - first:
+      213: -6886020173702716187
+    second: component rouge_79
+  - first:
+      213: -2230857619070064377
+    second: component rouge_80
+  - first:
+      213: -4370741372837313550
+    second: component rouge_81
+  - first:
+      213: -5401133653860232003
+    second: component rouge_82
+  - first:
+      213: -3378655323525385024
+    second: component rouge_83
+  - first:
+      213: 2660721409696163532
+    second: component rouge_84
+  - first:
+      213: -4826261824180014293
+    second: component rouge_85
+  - first:
+      213: -4987741912856128594
+    second: component rouge_86
+  - first:
+      213: -8882428942320146606
+    second: component rouge_87
+  - first:
+      213: -7228525433348071443
+    second: component rouge_88
+  - first:
+      213: 9202460891505431215
+    second: component rouge_89
+  - first:
+      213: 1519542201017180108
+    second: component rouge_90
+  - first:
+      213: 2790898370434999364
+    second: component rouge_91
+  - first:
+      213: 6442394790678783175
+    second: component rouge_92
+  - first:
+      213: -4230915428941741422
+    second: component rouge_93
+  - first:
+      213: 5960448541507843715
+    second: component rouge_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: component rouge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14053db14478f390800000000000000
+      internalID: -7784344130213837795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_1
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3460
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f35bfadddf1f2bf0800000000000000
+      internalID: -347023608562101258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_2
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3455
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d358f00ac34230800000000000000
+      internalID: 3621960630851065439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_3
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 3302
+        width: 72
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689ae956cdffa5ae0800000000000000
+      internalID: -1559652998867670650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 3426
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9287477dca99b9ba0800000000000000
+      internalID: -6081097904205563863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 3402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9245b90370d74ce50800000000000000
+      internalID: 6828720404834243625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_6
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 3402
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28223fc4cb48ebbe0800000000000000
+      internalID: -1459583284941741438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_7
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ce3a35223b5f990800000000000000
+      internalID: -7352773856598954998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3409
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603345ba31c7c5960800000000000000
+      internalID: 7592079495760458502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_9
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 3398
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c62e488112dc340800000000000000
+      internalID: 4885597559959219221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_10
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 3393
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c3ad5a5a15e0050800000000000000
+      internalID: 5768637944602180704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_11
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 3402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18f9c1283da6d230800000000000000
+      internalID: 3663305803509135389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_12
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3398
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7e7a6b263f9a820800000000000000
+      internalID: 2930140637878020075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_13
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 3409
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f6b2f73fed41950800000000000000
+      internalID: 6419000506301771585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_14
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 3398
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9d573023eb099e0800000000000000
+      internalID: -1616583144210310692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3395
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99110ff7bb2f7730800000000000000
+      internalID: 3998963063385561500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_16
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 3395
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9194d6d56f710d70800000000000000
+      internalID: 9007620805090382236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_17
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e9b4fd52d5eba0800000000000000
+      internalID: -6060206422577518421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3398
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e02771f75e1d200800000000000000
+      internalID: 203195792225341052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3368
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d637ff21944401c00800000000000000
+      internalID: 869269808724538221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_20
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3302
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019586b39fed42790800000000000000
+      internalID: -7555669112795932400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_21
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 3374
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302527b4d3dfb42f0800000000000000
+      internalID: -987417253577076221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_22
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 3352
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f2961afc6b25440800000000000000
+      internalID: 4923198345551884130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_23
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 3361
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f14a2eacc8104ee0800000000000000
+      internalID: -1278995026798820872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_24
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 3325
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088a1775f27106900800000000000000
+      internalID: 675565436203542656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_25
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 3333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1290b3bab527c0800000000000000
+      internalID: -4096663005099320457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_26
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 3326
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ce81244717e3c30800000000000000
+      internalID: 4341031834970811477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1624
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed4464968fb81c0800000000000000
+      internalID: -4500230271592505816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2480
+        height: 3508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb58e205423d0970800000000000000
+      internalID: 8722683325269433328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1401
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474e0fd7d650cca50800000000000000
+      internalID: 6542610326485001332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1367
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f3f19c4707e960800000000000000
+      internalID: 7631076119050188861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236a8458e560ea4f0800000000000000
+      internalID: -815707479474657742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_32
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1206
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64161c205143092b0800000000000000
+      internalID: -5579902673466859194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_33
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1166
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b088a44d27f3dd400800000000000000
+      internalID: 350506108425242635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_34
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8148577b9e9e8d0800000000000000
+      internalID: -2816463117783656284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_35
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1131
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d927ad0cb87720800000000000000
+      internalID: 2844229931509601679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1139
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228c6a6a5ac2907a0800000000000000
+      internalID: -6410543504608016350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45161f0dd672e0240800000000000000
+      internalID: 4759785208787591508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_38
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1131
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80579045d62f7810800000000000000
+      internalID: 1765172276306071692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_39
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1100
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e65326834c0c320800000000000000
+      internalID: 2576274733300805140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_40
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb736babcabcde40800000000000000
+      internalID: 5682622213751274442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1043
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555bb7e7d90f3cd0800000000000000
+      internalID: -2576329638922201773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_42
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1077
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d3d7734f5223a0800000000000000
+      internalID: -6691681352941316554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_43
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1064
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb1f151d31381c0800000000000000
+      internalID: -4502733412696474037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_44
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1052
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76db3e39653473250800000000000000
+      internalID: 5924277873956601191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_45
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1052
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2833d1743588810800000000000000
+      internalID: 1767754418640618180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 976
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13104acd9c887d0800000000000000
+      internalID: -2915858809240866360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 976
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e748e0d65664a860800000000000000
+      internalID: 7540264199183157225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_48
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 976
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde3d91a9c3328aa0800000000000000
+      internalID: -6160304399196537125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_49
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 934
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3139a6f4dfa21a0800000000000000
+      internalID: -6833370967049038894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 930
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b2fd80508062c50800000000000000
+      internalID: 6640003518321077003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 915
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe2cbec352b4a90800000000000000
+      internalID: -7328723025031664705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_52
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 812
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3676dd1d09c7e520800000000000000
+      internalID: 2731372757195847230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_53
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 901
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05251f0872b0ad70800000000000000
+      internalID: 9052431479733560586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 839
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6baddf5a02ee7e0800000000000000
+      internalID: -1734412909190400340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_55
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 834
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19125bea85b125760800000000000000
+      internalID: 7445043201699029393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_56
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 781
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1192488b73b16420800000000000000
+      internalID: 2621573801254752539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 781
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d216fe2cfc0dba20800000000000000
+      internalID: 3079631997450457815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_58
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 769
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32340619423cca270800000000000000
+      internalID: 8263193978143261475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 779
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a8f662093402760800000000000000
+      internalID: 7431013671560514121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 781
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b0a09af0174bbf0800000000000000
+      internalID: -309498162307265653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_61
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 779
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e28dd90e744f6c30800000000000000
+      internalID: 4354774672812638945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_62
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 738
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441038b7a1a383f40800000000000000
+      internalID: 5708376413107847492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_63
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 738
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ce203ed4879170800000000000000
+      internalID: 8185156937595144231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 622
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32f8c91335dc4ef0800000000000000
+      internalID: -122488674393198018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_65
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 635
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb398f970e556530800000000000000
+      internalID: 3847584843492309967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_66
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 613
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b432de8d76966b390800000000000000
+      internalID: -7802933409630837941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_67
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 600
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5b75bb8fedb710800000000000000
+      internalID: 1710786816794909568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 567
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5607b6945837880800000000000000
+      internalID: -8614395111847991855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_69
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 501
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364ccd79b43dd0160800000000000000
+      internalID: 6993478118000084067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_70
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 473
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500c7a70bbebd170800000000000000
+      internalID: 8204410289387208791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_71
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 449
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7663e89aa3941c9b0800000000000000
+      internalID: -5061683989886126489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_72
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 457
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50531840963e20d0800000000000000
+      internalID: -3445756671579434915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_73
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 428
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5012975044b81a0800000000000000
+      internalID: -6806271621542640155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_74
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 361
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e13ddd47af4ce0800000000000000
+      internalID: -1418731404733061729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_75
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 433
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59927afd433d0e290800000000000000
+      internalID: -7863052725344851563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_76
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 438
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ffdd343762e0630800000000000000
+      internalID: 3895093004223774515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 361
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b753096c078d2360800000000000000
+      internalID: 7146516671078029234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 404
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a2272a4e9258ea0800000000000000
+      internalID: -5871240477252900345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_79
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 404
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4a64eb221ff60a0800000000000000
+      internalID: -6886020173702716187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_80
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 349
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ead6a0d66a01e0800000000000000
+      internalID: -2230857619070064377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_81
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 348
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3cdeae0e10853c0800000000000000
+      internalID: -4370741372837313550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_82
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 264
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4d049ee815b05b0800000000000000
+      internalID: -5401133653860232003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_83
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 264
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c479c652ea9c11d0800000000000000
+      internalID: -3378655323525385024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_84
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 172
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc667376608cce420800000000000000
+      internalID: 2660721409696163532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_85
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 187
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b8b8017ca50db0800000000000000
+      internalID: -4826261824180014293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_86
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 73
+        width: 823
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea312ec082bf7cab0800000000000000
+      internalID: -4987741912856128594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_87
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 187
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257eb5620f54bb480800000000000000
+      internalID: -8882428942320146606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_88
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 126
+        width: 138
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def596faa6e1fab90800000000000000
+      internalID: -7228525433348071443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_89
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa21b919c65b5bf70800000000000000
+      internalID: 9202460891505431215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: component rouge_90
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 134
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf18d8b49f761510800000000000000
+      internalID: 1519542201017180108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b40c84f959057354bbca92630e2b37cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      component rouge_0: -7784344130213837795
+      component rouge_1: -347023608562101258
+      component rouge_10: 5768637944602180704
+      component rouge_11: 3663305803509135389
+      component rouge_12: 2930140637878020075
+      component rouge_13: 6419000506301771585
+      component rouge_14: -1616583144210310692
+      component rouge_15: 3998963063385561500
+      component rouge_16: 9007620805090382236
+      component rouge_17: -6060206422577518421
+      component rouge_18: 203195792225341052
+      component rouge_19: 869269808724538221
+      component rouge_2: 3621960630851065439
+      component rouge_20: -7555669112795932400
+      component rouge_21: -987417253577076221
+      component rouge_22: 4923198345551884130
+      component rouge_23: -1278995026798820872
+      component rouge_24: 675565436203542656
+      component rouge_25: -4096663005099320457
+      component rouge_26: 4341031834970811477
+      component rouge_27: -4500230271592505816
+      component rouge_28: 8722683325269433328
+      component rouge_29: 6542610326485001332
+      component rouge_3: -1559652998867670650
+      component rouge_30: 7631076119050188861
+      component rouge_31: -815707479474657742
+      component rouge_32: -5579902673466859194
+      component rouge_33: 350506108425242635
+      component rouge_34: -2816463117783656284
+      component rouge_35: 2844229931509601679
+      component rouge_36: -6410543504608016350
+      component rouge_37: 4759785208787591508
+      component rouge_38: 1765172276306071692
+      component rouge_39: 2576274733300805140
+      component rouge_4: -6081097904205563863
+      component rouge_40: 5682622213751274442
+      component rouge_41: -2576329638922201773
+      component rouge_42: -6691681352941316554
+      component rouge_43: -4502733412696474037
+      component rouge_44: 5924277873956601191
+      component rouge_45: 1767754418640618180
+      component rouge_46: -2915858809240866360
+      component rouge_47: 7540264199183157225
+      component rouge_48: -6160304399196537125
+      component rouge_49: -6833370967049038894
+      component rouge_5: 6828720404834243625
+      component rouge_50: 6640003518321077003
+      component rouge_51: -7328723025031664705
+      component rouge_52: 2731372757195847230
+      component rouge_53: 9052431479733560586
+      component rouge_54: -1734412909190400340
+      component rouge_55: 7445043201699029393
+      component rouge_56: 2621573801254752539
+      component rouge_57: 3079631997450457815
+      component rouge_58: 8263193978143261475
+      component rouge_59: 7431013671560514121
+      component rouge_6: -1459583284941741438
+      component rouge_60: -309498162307265653
+      component rouge_61: 4354774672812638945
+      component rouge_62: 5708376413107847492
+      component rouge_63: 8185156937595144231
+      component rouge_64: -122488674393198018
+      component rouge_65: 3847584843492309967
+      component rouge_66: -7802933409630837941
+      component rouge_67: 1710786816794909568
+      component rouge_68: -8614395111847991855
+      component rouge_69: 6993478118000084067
+      component rouge_7: -7352773856598954998
+      component rouge_70: 8204410289387208791
+      component rouge_71: -5061683989886126489
+      component rouge_72: -3445756671579434915
+      component rouge_73: -6806271621542640155
+      component rouge_74: -1418731404733061729
+      component rouge_75: -7863052725344851563
+      component rouge_76: 3895093004223774515
+      component rouge_77: 7146516671078029234
+      component rouge_78: -5871240477252900345
+      component rouge_79: -6886020173702716187
+      component rouge_8: 7592079495760458502
+      component rouge_80: -2230857619070064377
+      component rouge_81: -4370741372837313550
+      component rouge_82: -5401133653860232003
+      component rouge_83: -3378655323525385024
+      component rouge_84: 2660721409696163532
+      component rouge_85: -4826261824180014293
+      component rouge_86: -4987741912856128594
+      component rouge_87: -8882428942320146606
+      component rouge_88: -7228525433348071443
+      component rouge_89: 9202460891505431215
+      component rouge_9: 4885597559959219221
+      component rouge_90: 1519542201017180108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
