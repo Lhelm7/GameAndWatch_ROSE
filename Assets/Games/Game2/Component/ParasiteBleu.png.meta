@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -125,12 +125,12 @@ TextureImporter:
       name: ParasiteBleu_0
       rect:
         serializedVersion: 2
-        x: 949
-        y: 1057
-        width: 6
-        height: 6
+        x: 424
+        y: 121
+        width: 1165
+        height: 845
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -152,7 +152,7 @@ TextureImporter:
         width: 1170
         height: 853
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -169,12 +169,12 @@ TextureImporter:
       name: ParasiteBleu_2
       rect:
         serializedVersion: 2
-        x: 598
-        y: 970
-        width: 6
-        height: 6
+        x: 427
+        y: 114
+        width: 1165
+        height: 854
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -191,12 +191,12 @@ TextureImporter:
       name: ParasiteBleu_3
       rect:
         serializedVersion: 2
-        x: 408
-        y: 571
-        width: 6
-        height: 7
+        x: 419
+        y: 114
+        width: 1173
+        height: 856
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,11 +209,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: ParasiteBleu_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 118
+        width: 1167
+        height: 854
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906267950465a6347b743af7f412a436
+      internalID: 1660212737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParasiteBleu_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 118
+        width: 1167
+        height: 852
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cf424d4c751524c864dd923dc726b3
+      internalID: -948283754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3c45b06f90c556b4a9c51a2cab913f88
     internalID: 0
     vertices: []
     indices: 
@@ -227,6 +271,8 @@ TextureImporter:
       ParasiteBleu_1: 4979285552661347100
       ParasiteBleu_2: 6338671489062285567
       ParasiteBleu_3: 8451369901128102454
+      ParasiteBleu_4: 1660212737
+      ParasiteBleu_5: -948283754
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,4 @@
 using UnityEngine;
-using System.Collections;
 using System.Collections.Generic;
 
 public class ParasiteSpawner : MonoBehaviour
@@ -10,33 +9,43 @@ public class ParasiteSpawner : MonoBehaviour
 
     private ParasiteGameManager gameManager;
 
+    /// <summary>Spawn les parasites de la vague selon la séquence et le parasiteCount.</summary>
     public void StartSpawning(WaveData wave)
     {
-        gameManager = FindObjectOfType<ParasiteGameManager>();
-        StartCoroutine(SpawnRoutine(wave));
+        gameManager = FindFirstObjectByType<ParasiteGameManager>();
+        SpawnAllParasites(wave);
     }
 
-    IEnumerator SpawnRoutine(WaveData wave)
+    void SpawnAllParasites(WaveData wave)
     {
-        for (int i = 0; i < wave.parasiteCount; i++)
+        List<ColorType> sequence = gameManager.GetAllowedColors();
+
+        List<Transform> shuffled = new List<Transform>(spawnPoints);
+        for (int i = shuffled.Count - 1; i > 0; i--)
         {
-            SpawnRandomParasite();
-            yield return new WaitForSeconds(wave.spawnInterval);
+            int j = Random.Range(0, i + 1);
+            (shuffled[i], shuffled[j]) = (shuffled[j], shuffled[i]);
         }
+
+        // Spawn au moins autant que la séquence, jusqu'à parasiteCount
+        int count = Mathf.Clamp(wave.parasiteCount, sequence.Count, shuffled.Count);
+
+        for (int i = 0; i < count; i++)
+        {
+            // Cycle sur les couleurs de la séquence si parasiteCount > sequenceLength
+            ColorType color = sequence[i % sequence.Count];
+            ParasiteData dataToSpawn = parasiteTypes.Find(p => p.colorType == color);
+
+            if (dataToSpawn == null)
+            {
+                Debug.LogWarning($"[Spawner] Aucun ParasiteData pour {color}");
+                continue;
+            }
+
+            GameObject obj = Instantiate(parasitePrefab, shuffled[i].position, Quaternion.identity);
+            obj.GetComponent<Parasite>().Init(dataToSpawn, gameManager);
+        }
+
+        Debug.Log($"[Spawner] {count} parasite(s) spawné(s) — séquence: {string.Join(", ", sequence)}");
     }
-        void SpawnRandomParasite()
-{
-    List<ColorType> allowedColors = gameManager.GetAllowedColors();
-
-    // Choisit une couleur autorisée
-    ColorType randomColor = allowedColors[Random.Range(0, allowedColors.Count)];
-
-    // Trouve le ParasiteData correspondant
-    ParasiteData dataToSpawn = parasiteTypes.Find(p => p.colorType == randomColor);
-
-    Transform randomPoint = spawnPoints[Random.Range(0, spawnPoints.Count)];
-
-    GameObject obj = Instantiate(parasitePrefab, randomPoint.position, Quaternion.identity);
-    obj.GetComponent<Parasite>().Init(dataToSpawn, gameManager);
-}
 }

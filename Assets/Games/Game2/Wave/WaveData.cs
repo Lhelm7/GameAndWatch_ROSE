@@ -6,4 +6,5 @@ public class WaveData : ScriptableObject
     public int sequenceLength = 2;
     public int parasiteCount = 5;
     public float spawnInterval = 1f;
+    public float waveTime = 15f;
 }

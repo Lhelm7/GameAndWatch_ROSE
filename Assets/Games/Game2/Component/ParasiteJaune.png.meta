@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,12 +134,12 @@ TextureImporter:
       name: ParasiteJaune_0
       rect:
         serializedVersion: 2
-        x: 1516
-        y: 975
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 420
+        y: 115
+        width: 1207
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,12 +156,12 @@ TextureImporter:
       name: ParasiteJaune_1
       rect:
         serializedVersion: 2
-        x: 1527
-        y: 978
-        width: 6
-        height: 7
+        x: 419
+        y: 118
+        width: 1209
+        height: 848
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,7 +183,7 @@ TextureImporter:
         width: 1209
         height: 851
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,12 +200,12 @@ TextureImporter:
       name: ParasiteJaune_3
       rect:
         serializedVersion: 2
-        x: 525
-        y: 115
-        width: 8
-        height: 8
+        x: 422
+        y: 113
+        width: 1205
+        height: 848
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -222,12 +222,12 @@ TextureImporter:
       name: ParasiteJaune_4
       rect:
         serializedVersion: 2
-        x: 532
+        x: 425
         y: 115
-        width: 9
-        height: 8
+        width: 1202
+        height: 851
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -244,12 +244,12 @@ TextureImporter:
       name: ParasiteJaune_5
       rect:
         serializedVersion: 2
-        x: 773
+        x: 419
         y: 115
-        width: 9
-        height: 9
+        width: 1208
+        height: 848
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -266,12 +266,12 @@ TextureImporter:
       name: ParasiteJaune_6
       rect:
         serializedVersion: 2
-        x: 994
-        y: 116
-        width: 6
-        height: 8
+        x: 422
+        y: 115
+        width: 1205
+        height: 849
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -284,11 +284,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: ParasiteJaune_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 114
+        width: 1208
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c4862b5d7e2414199f459a84fcebf9
+      internalID: 520232953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 463d5225407f3384bbee50c737d00422
     internalID: 0
     vertices: []
     indices: 
@@ -305,6 +327,7 @@ TextureImporter:
       ParasiteJaune_4: -663897396255081481
       ParasiteJaune_5: -2143359764699738784
       ParasiteJaune_6: 5235458902271453035
+      ParasiteJaune_7: 520232953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

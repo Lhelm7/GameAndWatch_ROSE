@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -140,12 +140,12 @@ TextureImporter:
       name: ParasiteVert_0
       rect:
         serializedVersion: 2
-        x: 440
-        y: 960
-        width: 7
-        height: 7
+        x: 389
+        y: 97
+        width: 1193
+        height: 858
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: ParasiteVert_1
       rect:
         serializedVersion: 2
-        x: 382
-        y: 561
-        width: 7
-        height: 9
+        x: 389
+        y: 94
+        width: 1189
+        height: 863
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -189,7 +189,7 @@ TextureImporter:
         width: 1196
         height: 862
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: ParasiteVert_3
       rect:
         serializedVersion: 2
-        x: 382
-        y: 526
-        width: 8
-        height: 24
+        x: 388
+        y: 98
+        width: 1193
+        height: 861
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: ParasiteVert_4
       rect:
         serializedVersion: 2
-        x: 483
-        y: 97
-        width: 9
-        height: 7
+        x: 387
+        y: 95
+        width: 1195
+        height: 862
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: ParasiteVert_5
       rect:
         serializedVersion: 2
-        x: 1148
+        x: 389
         y: 97
-        width: 9
-        height: 8
+        width: 1193
+        height: 857
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +272,12 @@ TextureImporter:
       name: ParasiteVert_6
       rect:
         serializedVersion: 2
-        x: 1305
+        x: 390
         y: 97
-        width: 10
-        height: 6
+        width: 1189
+        height: 854
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: ParasiteVert_7
       rect:
         serializedVersion: 2
-        x: 1331
-        y: 97
-        width: 8
-        height: 8
+        x: 391
+        y: 101
+        width: 1189
+        height: 857
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,12 +316,12 @@ TextureImporter:
       name: ParasiteVert_8
       rect:
         serializedVersion: 2
-        x: 1345
+        x: 394
         y: 97
-        width: 9
-        height: 9
+        width: 1187
+        height: 861
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,7 +338,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ec48948f67e5cd9439996c9643fafc5b
     internalID: 0
     vertices: []
     indices: 
