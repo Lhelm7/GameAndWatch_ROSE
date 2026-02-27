@@ -15,4 +15,4 @@ MonoBehaviour:
   sequenceLength: 4
   parasiteCount: 4
   spawnInterval: 4
-  waveTime: 15
+  waveTime: 5

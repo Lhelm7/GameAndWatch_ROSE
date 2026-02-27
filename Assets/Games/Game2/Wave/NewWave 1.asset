@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WaveData
   sequenceLength: 3
   parasiteCount: 3
-  spawnInterval: 3
-  waveTime: 15
+  spawnInterval: 2
+  waveTime: 5
