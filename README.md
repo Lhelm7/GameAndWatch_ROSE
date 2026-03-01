@@ -2,8 +2,8 @@ Nom du jeu : Colors Flash
 
 Concept : 
 
-Jeu type game and watch, dans lequel le joueur va tenter de lancer une partie d’un jeu nommé “colors” seulement la borne d’arcade semblera défectueuse (effet dans le mainmenu) 
-et le joueur devra parvenir à la réparer afin de pouvoir jouer au vrai jeu. Mais ainsi les jeux seront liés entre eux de par cette idée de réparation de la borne. 
+Jeu type game and watch, dans lequel le joueur va tenter de lancer une partie d’un jeu nommé “colors flash” seulement la borne d’arcade semblera défectueuse (effet dans le mainmenu) 
+et le joueur devra parvenir à la réparer afin de pouvoir jouer au vrai jeu. Mais ainsi les jeux seront liés entre eux de par cette idée de réparation de la borne. Mais également tous les jeux seront autour des "couleurs".
 Le premier jeu est un jeu de collect dans lequel des composants de différentes couleurs vont tomber dans des tuyaux et ainsi finirent leurs courses à différents endroits, 
 et le player représenté par deux couleurs devra récupérer la bonne combinaison de couleurs (celle qu’il a sur lui) afin d’augmenter son score. 
 S'il récupère une mauvaise couleur ou une couleur qu’il a déjà récolté il perd alors une vie. Le jeu prend fin quand le joueur perd ses trois vies. 
