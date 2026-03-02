@@ -26,7 +26,7 @@ public class GameUIManager : MonoBehaviour
     [SerializeField] private GameObject music;
     
     [Header("Events")]
-    public UnityEvent OnDie;   // 👈 Event déclenché à la mort
+    public UnityEvent OnDie;  
 
     private int currentScore;
 
@@ -69,11 +69,9 @@ public class GameUIManager : MonoBehaviour
 if (music != null)
     music.SetActive(false);
 
-        // Active le panel Game Over
         if (gameOverPanel != null)
             gameOverPanel.SetActive(true);
-
-        // Affiche le score final
+        
         if (finalScoreText != null)
             finalScoreText.text = "Score : " + currentScore;
 

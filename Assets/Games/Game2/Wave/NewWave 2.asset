@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1223c72c5fe89449990b602b21a909, type: 3}
   m_Name: NewWave 2
   m_EditorClassIdentifier: Assembly-CSharp::WaveData
-  sequenceLength: 4
-  parasiteCount: 4
+  sequenceLength: 3
+  parasiteCount: 3
   spawnInterval: 4
   waveTime: 5

@@ -1,6 +1,7 @@
 using UnityEngine;
 using TMPro;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class ParasiteGameManager : MonoBehaviour
 {
@@ -21,6 +22,7 @@ public class ParasiteGameManager : MonoBehaviour
     public TMP_Text timerText;
     public TMP_Text scoreText;
 
+    [SerializeField] private GameObject gameOver;
     private WaveData currentWave;
     private float remainingTime;
     private bool timerRunning = false;
@@ -129,7 +131,7 @@ public class ParasiteGameManager : MonoBehaviour
         }
         else
         {
-            GameOver("Mauvaise couleur !");
+            gameover();
         }
     }
 
@@ -170,4 +172,31 @@ public class ParasiteGameManager : MonoBehaviour
 
     /// <summary>Retourne les couleurs de la séquence actuelle pour le spawner.</summary>
     public List<ColorType> GetAllowedColors() => currentSequence;
+    
+    private void gameover()
+    {
+
+        Time.timeScale = 0f;
+
+        if (gameOver!= null)
+            gameOver.SetActive(true);
+    }
+
+    public void RestartGame(string sceneName)
+    {
+        SceneManager.LoadScene("2ndGame");
+    }
+
+    public void Continue(string sceneName)
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("3rdGame");
+    }
+
+    public void QuitGame(string sceneName)
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("MainMenu");
+    }
 }
+
