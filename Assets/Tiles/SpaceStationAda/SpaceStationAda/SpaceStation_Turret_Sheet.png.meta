@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 96410fb475fc9ab48a6f7d64bf648eeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2364918816015107653
+    second: SpaceStation_Turret_Sheet_0
+  - first:
+      213: 2664011999480072809
+    second: SpaceStation_Turret_Sheet_1
+  - first:
+      213: -4436315120174221612
+    second: SpaceStation_Turret_Sheet_2
+  - first:
+      213: -4146590669787910236
+    second: SpaceStation_Turret_Sheet_3
+  - first:
+      213: -8733395954734366773
+    second: SpaceStation_Turret_Sheet_4
+  - first:
+      213: -3011052163355009848
+    second: SpaceStation_Turret_Sheet_5
+  - first:
+      213: 2651879094907052486
+    second: SpaceStation_Turret_Sheet_6
+  - first:
+      213: -822028213872298646
+    second: SpaceStation_Turret_Sheet_7
+  - first:
+      213: -289137285300886948
+    second: SpaceStation_Turret_Sheet_8
+  - first:
+      213: -8885828197986420349
+    second: SpaceStation_Turret_Sheet_9
+  - first:
+      213: -5486980978868727098
+    second: SpaceStation_Turret_Sheet_10
+  - first:
+      213: 8075851206686031160
+    second: SpaceStation_Turret_Sheet_11
+  - first:
+      213: 5535161789679781718
+    second: SpaceStation_Turret_Sheet_12
+  - first:
+      213: 8059401607726143862
+    second: SpaceStation_Turret_Sheet_13
+  - first:
+      213: -3691707864753881981
+    second: SpaceStation_Turret_Sheet_14
+  - first:
+      213: 5086129254932776114
+    second: SpaceStation_Turret_Sheet_15
+  - first:
+      213: 1520454494099127243
+    second: SpaceStation_Turret_Sheet_16
+  - first:
+      213: 1887289771185150843
+    second: SpaceStation_Turret_Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb938c0edde1e2fd0800000000000000
+      internalID: -2364918816015107653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a436a8cc878f420800000000000000
+      internalID: 2664011999480072809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 46
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6325e17ea0f62c0800000000000000
+      internalID: -4436315120174221612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 49
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afa75261c95476c0800000000000000
+      internalID: -4146590669787910236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf793396aebcc680800000000000000
+      internalID: -8733395954734366773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc9d0bb2089636d0800000000000000
+      internalID: -3011052163355009848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1283f8cfd5dc420800000000000000
+      internalID: 2651879094907052486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 49
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65faccd1b19794f0800000000000000
+      internalID: -822028213872298646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 47
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52e152cb27ccfbf0800000000000000
+      internalID: -289137285300886948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 49
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389bed345523fa480800000000000000
+      internalID: -8885828197986420349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 46
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c25439fed35ad3b0800000000000000
+      internalID: -5486980978868727098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 40
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d3e6182ef231070800000000000000
+      internalID: 8075851206686031160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 17
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657cd283258d0dc40800000000000000
+      internalID: 5535161789679781718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 17
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6799abacf0fb8df60800000000000000
+      internalID: 8059401607726143862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c34daa14b64ccc0800000000000000
+      internalID: -3691707864753881981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b48df12c9f859640800000000000000
+      internalID: 5086129254932776114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 14
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbbce18e4db91510800000000000000
+      internalID: 1520454494099127243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceStation_Turret_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b18bf2c00013a10800000000000000
+      internalID: 1887289771185150843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpaceStation_Turret_Sheet_0: -2364918816015107653
+      SpaceStation_Turret_Sheet_1: 2664011999480072809
+      SpaceStation_Turret_Sheet_10: -5486980978868727098
+      SpaceStation_Turret_Sheet_11: 8075851206686031160
+      SpaceStation_Turret_Sheet_12: 5535161789679781718
+      SpaceStation_Turret_Sheet_13: 8059401607726143862
+      SpaceStation_Turret_Sheet_14: -3691707864753881981
+      SpaceStation_Turret_Sheet_15: 5086129254932776114
+      SpaceStation_Turret_Sheet_16: 1520454494099127243
+      SpaceStation_Turret_Sheet_17: 1887289771185150843
+      SpaceStation_Turret_Sheet_2: -4436315120174221612
+      SpaceStation_Turret_Sheet_3: -4146590669787910236
+      SpaceStation_Turret_Sheet_4: -8733395954734366773
+      SpaceStation_Turret_Sheet_5: -3011052163355009848
+      SpaceStation_Turret_Sheet_6: 2651879094907052486
+      SpaceStation_Turret_Sheet_7: -822028213872298646
+      SpaceStation_Turret_Sheet_8: -289137285300886948
+      SpaceStation_Turret_Sheet_9: -8885828197986420349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
