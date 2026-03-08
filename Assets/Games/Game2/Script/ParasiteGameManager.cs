@@ -10,7 +10,7 @@ public class ParasiteGameManager : MonoBehaviour
 
     [Header("Wave Settings")]
     public List<WaveData> waves;
-    private int currentWaveIndex = 0;
+    private int currentWaveIndex = 0; 
 
     [Header("Sequence")]
     public List<ColorType> currentSequence = new List<ColorType>();
@@ -23,12 +23,16 @@ public class ParasiteGameManager : MonoBehaviour
     public TMP_Text scoreText;
 
     [SerializeField] private GameObject gameOver;
-    private WaveData currentWave;
-    private float remainingTime;
+    [SerializeField] private GameObject victory;
+
+    [SerializeField] private AudioEventDispatcher audioEventDispatcher;
+    
+    private WaveData currentWave; 
+    private float remainingTime; 
     private bool timerRunning = false;
     private int score = 0;
     private bool isGameOver = false;
-
+    [SerializeField] private int Last_Wave = 0;
     void Start()
     {
         UpdateScoreDisplay();
@@ -124,10 +128,12 @@ public class ParasiteGameManager : MonoBehaviour
 
         if (touchedColor == currentSequence[currentInputIndex])
         {
+            
             currentInputIndex++;
 
             if (currentInputIndex >= currentSequence.Count)
                 WaveComplete();
+            audioEventDispatcher.PlayAudio(AudioType.Destruction);
         }
         else
         {
@@ -146,11 +152,13 @@ public class ParasiteGameManager : MonoBehaviour
         if (currentWaveIndex >= waves.Count)
         {
             Debug.Log($"[GameManager] Jeu terminé ! Score final : {score}");
+            Victory(); // <-- ajoute cet appel
             return;
         }
 
         StartWave();
     }
+
 
     void GameOver(string reason)
     {
@@ -164,6 +172,13 @@ public class ParasiteGameManager : MonoBehaviour
         // TODO : charger la scène de game over et passer le score via GameData.SaveGameResult(score, false)
     }
 
+    void VictoryEnd()
+    {
+        audioEventDispatcher.PlayAudio(AudioType.Win);
+        if (currentWaveIndex == Last_Wave) 
+            Victory();
+    }
+
     void DestroyAllParasites()
     {
         foreach (var p in FindObjectsByType<Parasite>(FindObjectsSortMode.None))
@@ -175,13 +190,21 @@ public class ParasiteGameManager : MonoBehaviour
     
     private void gameover()
     {
-
+        audioEventDispatcher.PlayAudio(AudioType.Loose);
         Time.timeScale = 0f;
 
         if (gameOver!= null)
             gameOver.SetActive(true);
     }
 
+    private void Victory()
+    {
+        Time.timeScale = 0f;
+
+        if (victory!= null)
+            victory.SetActive(true);
+    }
+    
     public void RestartGame(string sceneName)
     {
         SceneManager.LoadScene("2ndGame");

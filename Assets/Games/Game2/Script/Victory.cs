@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class GameOver : MonoBehaviour
+public class Victory : MonoBehaviour
 {
     public void RestartGame(string sceneName)
     {

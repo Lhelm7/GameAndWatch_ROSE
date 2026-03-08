@@ -885,6 +885,7 @@ MonoBehaviour:
   scoreText: {fileID: 1069074598}
   gameOver: {fileID: 1763737662}
   victory: {fileID: 936953156}
+  audioEventDispatcher: {fileID: 11400000, guid: 24eb6ea280423e84b94346137565a26e, type: 2}
   Last_Wave: 5
 --- !u!4 &726293706
 Transform:

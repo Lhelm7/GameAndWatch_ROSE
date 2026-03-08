@@ -10,6 +10,7 @@ public enum AudioType{
     Hurt,
     Point,
     Win,
+    Loose,
 }
 [System.Serializable]
 
