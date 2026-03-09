@@ -3,68 +3,110 @@ using UnityEngine;
 
 public class ColorSpawner : MonoBehaviour
 {
-    [Header("Platform Settings")]
+    [Header("Platform Prefab")]
     public GameObject platformPrefab;
-    public int platformPoolSize = 15;
+    public int platformPoolSize = 50;
 
     [Header("Spawn Zone")]
-    public float spawnYOffset = 6f;
-    public float minX = -3f;
-    public float maxX = 3f;
-    public float minGap = 1.2f;
-    public float maxGap = 2.2f;
+    public float minX = -2.3f;
+    public float maxX =  2.3f;
 
-    [Header("Difficulty")]
-    public float gapIncreasePerPlatform = 0.02f;
-    public float maxGapCap = 3.5f;
+    [Header("Platforms Per Row")]
+    [Tooltip("Nombre minimum de plateformes par ligne horizontale.")]
+    public int minPlatformsPerRow = 2;
+    [Tooltip("Nombre maximum de plateformes par ligne horizontale.")]
+    public int maxPlatformsPerRow = 3;
 
+    [Header("Row Spacing")]
+    [Tooltip("Écart vertical minimum entre deux lignes.")]
+    public float minRowGap = 0.9f;
+    [Tooltip("Écart vertical maximum entre deux lignes.")]
+    public float maxRowGap = 1.4f;
+
+    [Tooltip("Nombre de lignes à maintenir spawné au-dessus du joueur.")]
+    public int spawnAheadRows = 16;
+
+    [Tooltip("Distance sous l'écran avant de recycler.")]
+    public float despawnBelowOffset = 2f;
+    
+    [Tooltip("Largeur du prefab de plateforme (Scale X). Utilisé pour éviter les chevauchements.")]
+    public float platformWidth = 1.0f;
+
+    
+    private int rowCount = 0;
+    
     private Transform playerTransform;
     private Camera mainCamera;
 
     private readonly Queue<GameObject> pool = new Queue<GameObject>();
     private readonly List<GameObject> activePlatforms = new List<GameObject>();
 
-    private float nextSpawnY;
-    private float currentGap;
+    // Lot de couleurs mélangées : toutes les couleurs apparaissent dans chaque lot de 4
+    private readonly Queue<ColorType> colorBatch = new Queue<ColorType>();
 
-    private static readonly ColorType[] AvailableColors =
+    private static readonly ColorType[] AllColors =
     {
-        ColorType.Blue,
-        ColorType.Red,
-        ColorType.Green,
-        ColorType.Yellow
+        ColorType.Blue, ColorType.Red, ColorType.Green, ColorType.Yellow
     };
+
+    private float nextRowY;
 
     void Start()
     {
-        mainCamera = Camera.main;
+        mainCamera      = Camera.main;
         playerTransform = GameObject.FindWithTag("Player")?.transform;
 
         if (platformPrefab == null)
         {
-            Debug.LogError("ColorSpawner: platformPrefab is not assigned.");
+            Debug.LogError("ColorSpawner: platformPrefab non assigné.");
             return;
         }
 
         if (playerTransform == null)
         {
-            Debug.LogError("ColorSpawner: no GameObject tagged 'Player' found.");
+            Debug.LogError("ColorSpawner: aucun GameObject taggé 'Player' trouvé.");
             return;
         }
 
-        currentGap = minGap;
-        nextSpawnY = playerTransform.position.y + 2f;
-
         InitPool();
-        SpawnInitialPlatforms();
+        PrewarmPlatforms();
     }
 
     void Update()
     {
         if (playerTransform == null) return;
 
+        SpawnRowsAheadOfPlayer();
         RecyclePlatformsBelowScreen();
-        SpawnPlatformsAheadOfPlayer();
+    }
+
+    // ─── Color Batch ──────────────────────────────────────────────────────────
+
+    /// <summary>
+    /// Retourne la prochaine couleur du lot mélangé.
+    /// Remplit automatiquement un nouveau lot quand il est vide.
+    /// </summary>
+    ColorType NextColor()
+    {
+        if (colorBatch.Count == 0)
+            RefillColorBatch();
+
+        return colorBatch.Dequeue();
+    }
+
+    void RefillColorBatch()
+    {
+        ColorType[] shuffled = (ColorType[])AllColors.Clone();
+
+        // Fisher-Yates shuffle
+        for (int i = shuffled.Length - 1; i > 0; i--)
+        {
+            int j = Random.Range(0, i + 1);
+            (shuffled[i], shuffled[j]) = (shuffled[j], shuffled[i]);
+        }
+
+        foreach (ColorType c in shuffled)
+            colorBatch.Enqueue(c);
     }
 
     // ─── Pool ────────────────────────────────────────────────────────────────
@@ -99,51 +141,121 @@ public class ColorSpawner : MonoBehaviour
 
     // ─── Spawning ─────────────────────────────────────────────────────────────
 
-    void SpawnInitialPlatforms()
+    void PrewarmPlatforms()
     {
-        // First platform directly under the player, same color for a safe start
-        SpawnPlatformAt(playerTransform.position.y - 1f, playerTransform.position.x, forceSafeColor: true);
+        // Plateforme safe sous le joueur, couleur identique
+        ColorType playerColor = playerTransform.GetComponent<PlayerController>()?.currentColor ?? ColorType.Blue;
+        SpawnPlatformAt(0f, playerTransform.position.y - 0.7f, playerColor);
 
-        for (int i = 0; i < platformPoolSize - 1; i++)
-        {
-            SpawnNextPlatform();
-        }
+        // Remplir l'écran + le buffer au-dessus
+        nextRowY = playerTransform.position.y + minRowGap;
+
+        int rowsToFill = spawnAheadRows + Mathf.CeilToInt(mainCamera.orthographicSize * 2f / minRowGap);
+        for (int i = 0; i < rowsToFill; i++)
+            SpawnNextRow();
     }
 
-    void SpawnPlatformsAheadOfPlayer()
+    void SpawnRowsAheadOfPlayer()
     {
-        float spawnThreshold = playerTransform.position.y + spawnYOffset;
+        float threshold = playerTransform.position.y + spawnAheadRows * maxRowGap;
 
-        while (nextSpawnY < spawnThreshold)
-        {
-            SpawnNextPlatform();
-        }
+        while (nextRowY < threshold)
+            SpawnNextRow();
     }
 
-    void SpawnNextPlatform()
-    {
-        float x = Random.Range(minX, maxX);
-        SpawnPlatformAt(nextSpawnY, x);
+    /// <summary>
+    /// Spawne une ligne de 2 à 3 plateformes réparties en zones horizontales distinctes.
+    /// </summary>
+    /// <summary>
+    /// Spawne une ligne de 2 à 3 plateformes en quinconce par rapport à la ligne précédente.
+    /// Les lignes impaires sont décalées de la moitié d'une zone pour éviter tout alignement vertical.
+    /// </summary>
+/// <summary>
+/// Spawne une ligne de 2 à 3 plateformes garanties non superposées,
+/// en quinconce par rapport à la ligne précédente.
+/// </summary>
+void SpawnNextRow()
+{
+    int count = Random.Range(minPlatformsPerRow, maxPlatformsPerRow + 1);
 
-        currentGap = Mathf.Min(currentGap + gapIncreasePerPlatform, maxGapCap);
-        nextSpawnY += Random.Range(minGap, currentGap);
+    // Génère des positions X valides avec espacement garanti
+    List<float> positions = GenerateSpacedPositions(count);
+
+    // Quinconce : lignes impaires décalées d'une demi-largeur de slot
+    float slotWidth = (maxX - minX) / count;
+    float offset    = (rowCount % 2 == 1) ? slotWidth * 0.5f : 0f;
+
+    for (int i = 0; i < positions.Count; i++)
+    {
+        float x = Mathf.Clamp(positions[i] + offset, minX, maxX);
+        SpawnPlatformAt(x, nextRowY, NextColor());
     }
 
-    void SpawnPlatformAt(float y, float x, bool forceSafeColor = false)
+    rowCount++;
+    nextRowY += Random.Range(minRowGap, maxRowGap);
+}
+
+/// <summary>
+/// Génère 'count' positions X aléatoires réparties dans des slots égaux,
+/// triées et vérifiées pour garantir un espacement minimum de platformWidth entre elles.
+/// </summary>
+List<float> GenerateSpacedPositions(int count)
+{
+    float totalWidth = maxX - minX;
+    float slotWidth  = totalWidth / count;
+    // Espacement minimum = largeur de la plateforme + petite marge
+    float minSpacing = platformWidth + 0.15f;
+
+    List<float> positions = new List<float>(count);
+
+    for (int i = 0; i < count; i++)
+    {
+        // Chaque plateforme est placée dans son slot, avec une variation aléatoire interne
+        float slotMin = minX + i * slotWidth + minSpacing * 0.5f;
+        float slotMax = minX + (i + 1) * slotWidth - minSpacing * 0.5f;
+
+        // Si le slot est trop petit pour la plateforme, on centre
+        if (slotMin >= slotMax)
+            slotMin = slotMax = minX + (i + 0.5f) * slotWidth;
+
+        positions.Add(Random.Range(slotMin, slotMax));
+    }
+
+    // Vérification finale : si deux positions sont trop proches malgré les slots,
+    // on les écarte proprement
+    positions.Sort();
+    for (int i = 1; i < positions.Count; i++)
+    {
+        float gap = positions[i] - positions[i - 1];
+        if (gap < minSpacing)
+            positions[i] = Mathf.Min(positions[i - 1] + minSpacing, maxX);
+    }
+
+    return positions;
+}
+
+/// <summary>
+/// Retourne un tableau d'indices de zones dans un ordre aléatoire.
+/// </summary>
+int[] ShuffledZoneOrder(int count)
+{
+    int[] zones = new int[count];
+    for (int i = 0; i < count; i++) zones[i] = i;
+
+    for (int i = zones.Length - 1; i > 0; i--)
+    {
+        int j = Random.Range(0, i + 1);
+        (zones[i], zones[j]) = (zones[j], zones[i]);
+    }
+
+    return zones;
+}
+
+    void SpawnPlatformAt(float x, float y, ColorType color)
     {
         GameObject go = GetFromPool();
         go.transform.position = new Vector3(x, y, 0f);
-
-        Platform platform = go.GetComponent<Platform>();
-        if (platform != null)
-        {
-            ColorType color = forceSafeColor
-                ? GetPlayerColor()
-                : AvailableColors[Random.Range(0, AvailableColors.Length)];
-
-            platform.SetColor(color);
-        }
-
+        go.GetComponent<Platform>()?.SetColor(color);
         activePlatforms.Add(go);
     }
 
@@ -151,7 +263,7 @@ public class ColorSpawner : MonoBehaviour
 
     void RecyclePlatformsBelowScreen()
     {
-        float bottomY = mainCamera.transform.position.y - mainCamera.orthographicSize - 1f;
+        float bottomY = mainCamera.transform.position.y - mainCamera.orthographicSize - despawnBelowOffset;
 
         for (int i = activePlatforms.Count - 1; i >= 0; i--)
         {
@@ -161,13 +273,5 @@ public class ColorSpawner : MonoBehaviour
                 activePlatforms.RemoveAt(i);
             }
         }
-    }
-
-    // ─── Helpers ──────────────────────────────────────────────────────────────
-
-    ColorType GetPlayerColor()
-    {
-        var player = playerTransform?.GetComponent<PlayerController>();
-        return player != null ? player.currentColor : AvailableColors[0];
     }
 }
