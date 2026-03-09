@@ -143,17 +143,43 @@ public class ColorSpawner : MonoBehaviour
 
     void PrewarmPlatforms()
     {
-        // Plateforme safe sous le joueur, couleur identique
-        ColorType playerColor = playerTransform.GetComponent<PlayerController>()?.currentColor ?? ColorType.Blue;
-        SpawnPlatformAt(0f, playerTransform.position.y - 0.7f, playerColor);
+        // Plateforme neutre plein écran sous le joueur
+        SpawnNeutralStartPlatform();
 
-        // Remplir l'écran + le buffer au-dessus
         nextRowY = playerTransform.position.y + minRowGap;
 
         int rowsToFill = spawnAheadRows + Mathf.CeilToInt(mainCamera.orthographicSize * 2f / minRowGap);
         for (int i = 0; i < rowsToFill; i++)
             SpawnNextRow();
     }
+
+    /// <summary>
+    /// Spawne une plateforme neutre grise qui s'étend sur toute la largeur de l'écran.
+    /// </summary>
+    void SpawnNeutralStartPlatform()
+    {
+        GameObject go = GetFromPool();
+
+        // Largeur = largeur totale de l'écran en unités monde
+        float screenWidth = mainCamera.orthographicSize * mainCamera.aspect * 2f;
+
+        // On scale la plateforme pour qu'elle prenne toute la largeur
+        // en tenant compte de la scale de base du prefab
+        Vector3 originalScale = go.transform.localScale;
+        go.transform.localScale = new Vector3(
+            screenWidth / platformWidth * originalScale.x,
+            originalScale.y,
+            originalScale.z
+        );
+
+        go.transform.position = new Vector3(0f, playerTransform.position.y - 0.7f, 0f);
+
+        Platform platform = go.GetComponent<Platform>();
+        platform?.SetNeutral();
+
+        activePlatforms.Add(go);
+    }
+
 
     void SpawnRowsAheadOfPlayer()
     {

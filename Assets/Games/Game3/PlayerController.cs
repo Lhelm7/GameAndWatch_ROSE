@@ -3,30 +3,41 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    [Header("Movement")]
     public float moveSpeed = 5f;
     public float jumpForce = 12f;
 
+    [Header("Color")]
     public ColorType currentColor;
 
-    // Assign Assets/InputSystem_Actions.inputactions in the Inspector
+    [Header("Input")]
     public InputActionAsset inputActionAsset;
 
-    // C# event notified when the player color changes
+    [Header("Sprites")]
+    public Sprite idleSprite;
+    public Sprite jumpSprite;
+
     public event System.Action<ColorType> OnColorChanged;
 
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private InputAction moveAction;
 
+    public event System.Action<int> OnPlayerDied;
+    
     private float screenHalfWidth;
+    private bool isGrounded;
+
+    // Input mobile fourni par MobileInputHandler
+    public float MobileHorizontalInput { get; set; }
 
     void Awake()
     {
-        rb = GetComponent<Rigidbody2D>();
+        rb             = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
         var playerMap = inputActionAsset.FindActionMap("Player", throwIfNotFound: true);
-        moveAction = playerMap.FindAction("Move", throwIfNotFound: true);
+        moveAction    = playerMap.FindAction("Move", throwIfNotFound: true);
         moveAction.Enable();
     }
 
@@ -40,16 +51,21 @@ public class PlayerController : MonoBehaviour
     {
         Move();
         WrapHorizontal();
+        UpdateSprite();
     }
 
     void Move()
     {
+        // Fusionne input clavier/gamepad et input mobile
         float horizontal = moveAction.ReadValue<Vector2>().x;
+        if (Mathf.Approximately(horizontal, 0f))
+            horizontal = MobileHorizontalInput;
+
         rb.linearVelocity = new Vector2(horizontal * moveSpeed, rb.linearVelocity.y);
     }
 
     /// <summary>
-    /// Wraps the player from one side of the screen to the other.
+    /// Wrap horizontal : sortir d'un côté = entrer de l'autre.
     /// </summary>
     void WrapHorizontal()
     {
@@ -63,13 +79,24 @@ public class PlayerController : MonoBehaviour
         transform.position = pos;
     }
 
+    /// <summary>
+    /// Change le sprite selon si le joueur est en l'air ou au sol.
+    /// </summary>
+    void UpdateSprite()
+    {
+        if (idleSprite == null || jumpSprite == null) return;
+
+        spriteRenderer.sprite = isGrounded ? idleSprite : jumpSprite;
+    }
+
     void Jump()
     {
+        isGrounded = false;
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
     /// <summary>
-    /// Assigns a new color to the player and updates the visual.
+    /// Assigne une nouvelle couleur au joueur et met à jour le visuel.
     /// </summary>
     public void SetColor(ColorType newColor)
     {
@@ -81,15 +108,14 @@ public class PlayerController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         Platform platform = collision.gameObject.GetComponent<Platform>();
-
         if (platform == null) return;
 
-        // Only bounce off the top of the platform
         bool hittingFromAbove = collision.GetContact(0).normal.y > 0.5f;
         if (!hittingFromAbove) return;
 
-        if (platform.platformColor == currentColor)
+        if (platform.isNeutral || platform.platformColor == currentColor)
         {
+            isGrounded = true;
             Jump();
         }
         else
@@ -103,8 +129,20 @@ public class PlayerController : MonoBehaviour
         Debug.Log("Player Dead");
         enabled = false;
         rb.linearVelocity = Vector2.zero;
+
+        int finalScore = FindFirstObjectByType<ScoreManager>()?.CurrentMeters ?? 0;
+        OnPlayerDied?.Invoke(finalScore);
+
+        // Délai avant de geler le temps pour laisser le UI s'afficher
+        StartCoroutine(FreezeAfterDelay(0.6f));
+    }
+
+    System.Collections.IEnumerator FreezeAfterDelay(float delay)
+    {
+        yield return new WaitForSecondsRealtime(delay);
         Time.timeScale = 0f;
     }
+
 
     void OnDisable()
     {
@@ -112,7 +150,7 @@ public class PlayerController : MonoBehaviour
     }
 
     /// <summary>
-    /// Converts a ColorType enum value to its corresponding Unity Color.
+    /// Convertit un ColorType en Color Unity.
     /// </summary>
     public static Color ColorTypeToUnityColor(ColorType type)
     {
