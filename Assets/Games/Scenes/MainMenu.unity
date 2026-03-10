@@ -314,8 +314,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BrokenMenuButton
   animator: {fileID: 373684657}
-  dialoguePanel: {fileID: 0}
-  sceneToLoad: SampleScene
+  dialoguePanel: {fileID: 1456020085}
+  sceneToLoad: MenuChangeGame
   dialogueText: {fileID: 879666084}
   menuImage: {fileID: 1018403105}
   normalSprite: {fileID: -4894717968530937766, guid: 6e2495bf343510b4dba912fa74b39f17, type: 3}

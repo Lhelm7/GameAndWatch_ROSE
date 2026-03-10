@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Games/Scenes/MainMenu.unity
     guid: 28b76654416552346aa0ddd8d15dad40
   - enabled: 1
+    path: Assets/Games/Scenes/MenuChangeGame.unity
+    guid: 53fabb5eed4adf34b99e794f21b74b34
+  - enabled: 1
     path: Assets/Games/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
@@ -17,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Games/Scenes/Delete/SuccessGame1.unity
     guid: 294700c0da628844aba6945c002940f2
+  - enabled: 1
+    path: Assets/Games/Scenes/2ndGame.unity
+    guid: 67e28fd374d5fc74982b366746617711
+  - enabled: 1
+    path: Assets/Games/Scenes/3rdGame.unity
+    guid: 2ef390a951f25044b9012650a4c96f2e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -82,16 +82,11 @@ if (music != null)
     {
         SceneManager.LoadScene("SampleScene");
     }
-
-    public void Continue(string sceneName)
-    {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("2ndGame");
-    }
+    
 
     public void QuitGame(string sceneName)
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("MenuChangeGame");
     }
 }

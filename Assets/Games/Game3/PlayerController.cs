@@ -24,7 +24,9 @@ public class PlayerController : MonoBehaviour
     private InputAction moveAction;
 
     public event System.Action<int> OnPlayerDied;
-    
+
+    public float deathHeight = -10f;
+    bool isDead = false;
     private float screenHalfWidth;
     private bool isGrounded;
 
@@ -51,7 +53,12 @@ public class PlayerController : MonoBehaviour
     {
         Move();
         WrapHorizontal();
-        UpdateSprite();
+        UpdateSprite();  
+        
+        if(!isDead && transform.position.y < deathHeight)
+        {
+            Die();
+        }
     }
 
     void Move()
@@ -123,17 +130,20 @@ public class PlayerController : MonoBehaviour
             Die();
         }
     }
-
+    
     void Die()
     {
+        if (isDead) return;
+        isDead = true;
+
         Debug.Log("Player Dead");
+
         enabled = false;
         rb.linearVelocity = Vector2.zero;
 
         int finalScore = FindFirstObjectByType<ScoreManager>()?.CurrentMeters ?? 0;
         OnPlayerDied?.Invoke(finalScore);
 
-        // Délai avant de geler le temps pour laisser le UI s'afficher
         StartCoroutine(FreezeAfterDelay(0.6f));
     }
 

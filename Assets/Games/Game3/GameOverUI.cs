@@ -33,9 +33,15 @@ public class GameOverUI : MonoBehaviour
     /// <summary>
     /// Relance la scène. À brancher sur le bouton Retry.
     /// </summary>
-    public void OnRetryPressed()
+    public void OnRetryPressed(string sceneName)
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene("3rdGame");
+    }
+
+    public void Quit(string sceneName)
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("MainMenu");
     }
 }

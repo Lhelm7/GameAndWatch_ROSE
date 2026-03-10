@@ -9,6 +9,6 @@ public class GameOver2 : MonoBehaviour
     
     public void QuitGame(string sceneName)
     {
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene("MenuChangeGame");
     }
 }
