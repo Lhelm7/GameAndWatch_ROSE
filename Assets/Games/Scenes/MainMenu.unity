@@ -156,10 +156,10 @@ RectTransform:
   - {fileID: 753800669}
   m_Father: {fileID: 827418646}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.31752083, y: 0.372}
-  m_AnchorMax: {x: 0.45510417, y: 0.46129632}
-  m_AnchoredPosition: {x: 0.1000061, y: -0.3999939}
-  m_SizeDelta: {x: 0, y: -1}
+  m_AnchorMin: {x: 0.5, y: 0.5557778}
+  m_AnchorMax: {x: 0.5, y: 0.5557778}
+  m_AnchoredPosition: {x: 0, y: 9.828003}
+  m_SizeDelta: {x: 270, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &373684653
 MonoBehaviour:
@@ -254,14 +254,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.9607843}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -860879705913292885, guid: b1f09a6ee7bb53f40835202c302436d7, type: 3}
+  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -319,7 +319,7 @@ MonoBehaviour:
   dialogueText: {fileID: 879666084}
   menuImage: {fileID: 1018403105}
   normalSprite: {fileID: -4894717968530937766, guid: 6e2495bf343510b4dba912fa74b39f17, type: 3}
-  blinkSprite: {fileID: 2366162372891278748, guid: c4fac8de0b650f3418b4bbfbb64b891f, type: 3}
+  blinkSprite: {fileID: -5915315533894364233, guid: dc4f9302b8c54514d9d93d420afbd421, type: 3}
   dialogueLines:
   - "Encore un probl\xE8me avec la borne ?"
   - Bizarre, j'ai l'impression que ca vient du jeu...
@@ -360,10 +360,10 @@ RectTransform:
   - {fileID: 2066366163}
   m_Father: {fileID: 827418646}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.55200005, y: 0.372}
-  m_AnchorMax: {x: 0.69100004, y: 0.45944446}
-  m_AnchoredPosition: {x: 0, y: 0.1000061}
-  m_SizeDelta: {x: -1, y: 0}
+  m_AnchorMin: {x: 0.5, y: 0.41566667}
+  m_AnchorMax: {x: 0.5, y: 0.41566667}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 270, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &376558011
 MonoBehaviour:
@@ -446,14 +446,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.95686275}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -860879705913292885, guid: b1f09a6ee7bb53f40835202c302436d7, type: 3}
+  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -634,8 +634,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -6.57}
-  m_SizeDelta: {x: 162, y: 13}
+  m_AnchoredPosition: {x: 2.34, y: -6.57}
+  m_SizeDelta: {x: 177, y: 26.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &753800670
 MonoBehaviour:
@@ -690,7 +690,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1061,7 +1061,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4894717968530937766, guid: 6e2495bf343510b4dba912fa74b39f17, type: 3}
+  m_Sprite: {fileID: 8205197057571744209, guid: df0079b0688f84a41aa7417cff92979b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1477,7 +1477,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
