@@ -35,6 +35,7 @@ public class ParasiteGameManager : MonoBehaviour
     private float remainingTime; 
     private bool timerRunning = false;
     private int score = 0;
+    public int Score => score;
     private bool isGameOver = false;
     [SerializeField] private int Last_Wave = 0;
     void Start()
@@ -188,9 +189,13 @@ public class ParasiteGameManager : MonoBehaviour
         audioEventDispatcher.PlayAudio(AudioType.Loose);
         Time.timeScale = 0f;
 
-        if (gameOver!= null)
+        if (gameOver != null)
+        {
             gameOver.SetActive(true);
+            gameOver.GetComponent<GameOver2>().DisplayScore(score);
+        }
     }
+
 
     private void Victory()
     {
