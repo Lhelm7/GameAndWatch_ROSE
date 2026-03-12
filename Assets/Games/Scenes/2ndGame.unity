@@ -226,9 +226,9 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: c117c8f38c61bcc4d821c79520d78a6c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.103
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1007,6 +1007,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1f3f222e05792d947adc66eeba3d7821, type: 2}
   - {fileID: 11400000, guid: 1c69bb9072bc327498ed64e178f144fb, type: 2}
   - {fileID: 11400000, guid: 8096dcc6c644f2845afd0bce0a2ddb2c, type: 2}
+  - {fileID: 11400000, guid: d0ce263c9c375a24db9188013df8f283, type: 2}
+  - {fileID: 11400000, guid: f79735f48d84a054eacab318f55fd6cc, type: 2}
+  - {fileID: 11400000, guid: 2de34a444bdf88345b0693f1ddf715ab, type: 2}
+  - {fileID: 11400000, guid: 91f2f261bf85f8b4a8cae001b45c718b, type: 2}
+  - {fileID: 11400000, guid: 4dc88df9c4c56964d80e3c50bdfb8ae5, type: 2}
   currentSequence: 00000000020000000300000000000000
   spawner: {fileID: 887496118}
   sequenceUI: {fileID: 1035837843}
@@ -1015,7 +1020,9 @@ MonoBehaviour:
   gameOver: {fileID: 1763737662}
   victory: {fileID: 936953156}
   audioEventDispatcher: {fileID: 11400000, guid: 24eb6ea280423e84b94346137565a26e, type: 2}
-  Last_Wave: 5
+  music: {fileID: 79840310}
+  animator: {fileID: 6807490748095187579, guid: 6363a26dd0582a0448871abfc6088039, type: 3}
+  Last_Wave: 9
 --- !u!4 &726293706
 Transform:
   m_ObjectHideFlags: 0
@@ -1471,10 +1478,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 825651271}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.73452085, y: 0.91400003}
-  m_AnchorMax: {x: 0.90900004, y: 0.961}
-  m_AnchoredPosition: {x: 155, y: 0}
-  m_SizeDelta: {x: -141, y: 0}
+  m_AnchorMin: {x: 0.89539593, y: 0.9341482}
+  m_AnchorMax: {x: 0.89539593, y: 0.9341482}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 106.0947, y: 51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1069074598
 MonoBehaviour:
@@ -1562,7 +1569,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 60.885864, w: -16.182312}
+  m_margin: {x: 0, y: 0, z: 1.0633545, w: -16.182312}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -5494,7 +5501,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: MainMenu
+          m_StringArgument: MenuChangeGame
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1703420365
@@ -6376,7 +6383,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2087478332}
         m_TargetAssemblyTypeName: Victory, Assembly-CSharp
-        m_MethodName: RetryGame
+        m_MethodName: RestartGame
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -26,6 +26,10 @@ public class ParasiteGameManager : MonoBehaviour
     [SerializeField] private GameObject victory;
 
     [SerializeField] private AudioEventDispatcher audioEventDispatcher;
+
+    [SerializeField] private GameObject music;
+    [SerializeField] private Animator animator;
+    private static readonly int Blink = Animator.StringToHash("Touch");
     
     private WaveData currentWave; 
     private float remainingTime; 
@@ -124,6 +128,7 @@ public class ParasiteGameManager : MonoBehaviour
     /// <summary>Appelé par un Parasite quand le joueur clique dessus.</summary>
     public void OnParasiteTouched(ColorType touchedColor)
     {
+        animator.SetTrigger("Touch");
         if (isGameOver) return;
 
         if (touchedColor == currentSequence[currentInputIndex])
@@ -133,7 +138,7 @@ public class ParasiteGameManager : MonoBehaviour
 
             if (currentInputIndex >= currentSequence.Count)
                 WaveComplete();
-            audioEventDispatcher.PlayAudio(AudioType.Destruction);
+            audioEventDispatcher.PlayAudio(AudioType.Point);
         }
         else
         {
@@ -190,6 +195,8 @@ public class ParasiteGameManager : MonoBehaviour
     
     private void gameover()
     {
+        if (music != null)
+            music.SetActive(false);
         audioEventDispatcher.PlayAudio(AudioType.Loose);
         Time.timeScale = 0f;
 
@@ -199,6 +206,8 @@ public class ParasiteGameManager : MonoBehaviour
 
     private void Victory()
     {
+        if (music != null)
+            music.SetActive(false);
         Time.timeScale = 0f;
 
         if (victory!= null)
