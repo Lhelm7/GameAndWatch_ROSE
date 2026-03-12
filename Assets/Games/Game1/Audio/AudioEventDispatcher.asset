@@ -20,7 +20,7 @@ MonoBehaviour:
   - audioType: 4
     audioClip: {fileID: 8300000, guid: a3a5ae490ea767a4fa144e0fa8a04dfb, type: 3}
   - audioType: 6
-    audioClip: {fileID: 8300000, guid: 0f219f5e82901a747bafcfbaa092eba0, type: 3}
+    audioClip: {fileID: 8300000, guid: 9b8eb0bf494341044a8893084a917a63, type: 3}
   - audioType: 7
     audioClip: {fileID: 8300000, guid: 67d1374c825fc6945b262fcf176fa734, type: 3}
   - audioType: 8

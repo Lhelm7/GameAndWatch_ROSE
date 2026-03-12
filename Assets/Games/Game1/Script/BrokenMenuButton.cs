@@ -22,6 +22,8 @@ public class BrokenMenuButton : MonoBehaviour
     [SerializeField] private string[] dialogueLines;
     [SerializeField] private float delayBetweenLines = 2f;
 
+    [SerializeField] private AudioEventDispatcher audioEventDispatcher;
+    
     private Sprite originalSprite;
 
     private static readonly int Blink = Animator.StringToHash("Blink");
@@ -49,6 +51,7 @@ public class BrokenMenuButton : MonoBehaviour
 
     private void FirstClick()
     {
+        audioEventDispatcher.PlayAudio(AudioType.Point);
         firstClickDone = true;
         if (menuImage != null)
             menuImage.sprite = blinkSprite;
