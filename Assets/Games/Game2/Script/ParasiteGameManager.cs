@@ -53,7 +53,7 @@ public class ParasiteGameManager : MonoBehaviour
         if (remainingTime <= 0f)
         {
             timerRunning = false;
-            GameOver("Temps écoulé !");
+            gameover();
         }
     }
 
@@ -163,19 +163,7 @@ public class ParasiteGameManager : MonoBehaviour
 
         StartWave();
     }
-
-
-    void GameOver(string reason)
-    {
-        if (isGameOver) return;
-
-        isGameOver = true;
-        StopTimer();
-        DestroyAllParasites();
-
-        Debug.Log($"[GameManager] Game Over — {reason} | Score : {score}");
-        // TODO : charger la scène de game over et passer le score via GameData.SaveGameResult(score, false)
-    }
+    
 
     void VictoryEnd()
     {

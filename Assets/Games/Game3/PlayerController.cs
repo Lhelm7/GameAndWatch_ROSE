@@ -23,6 +23,9 @@ public class PlayerController : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private InputAction moveAction;
 
+    [SerializeField] private AudioEventDispatcher audioEventDispatcher;
+
+    [SerializeField] private GameObject music;
     public event System.Action<int> OnPlayerDied;
 
     public float deathHeight = -10f;
@@ -121,9 +124,11 @@ public class PlayerController : MonoBehaviour
         if (!hittingFromAbove) return;
 
         if (platform.isNeutral || platform.platformColor == currentColor)
+            
         {
             isGrounded = true;
             Jump();
+            audioEventDispatcher.PlayAudio(AudioType.Jump);
         }
         else
         {
@@ -133,6 +138,9 @@ public class PlayerController : MonoBehaviour
     
     void Die()
     {
+        if (music != null)
+            music.SetActive(false);
+        audioEventDispatcher.PlayAudio(AudioType.Death);
         if (isDead) return;
         isDead = true;
 

@@ -11,6 +11,7 @@ public enum AudioType{
     Point,
     Win,
     Loose,
+    Jump,
 }
 [System.Serializable]
 

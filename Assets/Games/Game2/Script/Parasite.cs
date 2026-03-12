@@ -26,6 +26,16 @@ public class Parasite : MonoBehaviour, IPointerClickHandler
     public void OnPointerClick(PointerEventData eventData)
     {
         gameManager.OnParasiteTouched(data.colorType);
-        Destroy(gameObject);
+        var anim = GetComponent<Animator>();
+        if (anim != null)
+        {
+            anim.SetTrigger("Touch");
+            // Détruit après la durée de l'animation
+            Destroy(gameObject, anim.GetCurrentAnimatorStateInfo(0).length);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 }
