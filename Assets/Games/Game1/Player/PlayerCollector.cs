@@ -123,7 +123,7 @@ public class PlayerCollector : MonoBehaviour
         
         if (audioEventDispatcher != null)
         {
-            audioEventDispatcher.PlayAudio(AudioType.Point);  
+            audioEventDispatcher.PlayAudio(AudioType.ObjectMovement);  
         }
     }
     private IEnumerator PlayCollectFeedbackL()
@@ -137,7 +137,7 @@ public class PlayerCollector : MonoBehaviour
         
         if (audioEventDispatcher != null)
         {
-            audioEventDispatcher.PlayAudio(AudioType.Point);  
+            audioEventDispatcher.PlayAudio(AudioType.ObjectMovement);  
         }
     }
     
