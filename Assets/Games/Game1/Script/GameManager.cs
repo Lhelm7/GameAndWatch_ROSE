@@ -149,15 +149,6 @@ public class GameManager : MonoBehaviour
 
     private void EndGame()
     {
-        bool isVictory = currentScore >= victoryScoreThreshold;
-        
-        GameData.SaveGameResult(currentScore, isVictory);
-    
-        if (isVictory)
-        {
-            LoadScene(victorySceneName);
-        }
-        else
         {
             LoadScene(gameOverSceneName);
         }

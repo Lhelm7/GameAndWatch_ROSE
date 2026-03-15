@@ -606,8 +606,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 825651271}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.30400002, y: 0.89300007}
-  m_AnchorMax: {x: 0.30400002, y: 0.89300007}
+  m_AnchorMin: {x: 0.32200003, y: 0.89300007}
+  m_AnchorMax: {x: 0.32200003, y: 0.89300007}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 156.7, y: 54}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1615,8 +1615,8 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 825651271}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.8817179, y: 0.89300007}
-  m_AnchorMax: {x: 0.8817179, y: 0.89300007}
+  m_AnchorMin: {x: 0.8947709, y: 0.89300007}
+  m_AnchorMax: {x: 0.8947709, y: 0.89300007}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 106.0947, y: 51}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -6605,6 +6605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50faefe02b442d9429574aff47111324, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Victory
+  audioeventdispatcher: {fileID: 0}
 --- !u!114 &1703420364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7496,6 +7497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50faefe02b442d9429574aff47111324, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Victory
+  audioeventdispatcher: {fileID: 0}
 --- !u!114 &2087478333
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7622,10 +7624,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 936953157}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.4011459, y: 0.6092964}
-  m_AnchorMax: {x: 0.6068124, y: 0.88418514}
-  m_AnchoredPosition: {x: -98.5, y: 123.5}
-  m_SizeDelta: {x: -197, y: -247}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -90, y: 200}
+  m_SizeDelta: {x: 376.99994, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2129392441
 MonoBehaviour:

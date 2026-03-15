@@ -12,6 +12,7 @@ public enum AudioType{
     Win,
     Loose,
     Jump,
+    Victory,
 }
 [System.Serializable]
 
