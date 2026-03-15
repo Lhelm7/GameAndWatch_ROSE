@@ -57,3 +57,20 @@ Fonctionnalités principales :
 Ce qui compose le cœur du projet pour ce jeu est : le ParasiteGameManager, qui gère les vagues, le score, le timer et les conditions de victoire ou de défaite ; Ensuite le SequenceDisplayUI, qui gère l'affichage de la séquence à mémoriser ; le ParasiteSpawner, qui instancie/fait spawn les parasites aux emplacements prédéfini, avec les bonnes couleurs ; le Parasite, qui gère la détection du touch via IPointerClickHandler et communique la couleur touchée au manager ; et les WaveData ScriptableObjects, qui définissent pour chaque vague la durée, le nombre de parasites et le temps accordé aux joueurs.
 
 
+Jeu 3 — Higher
+
+Concept :
+Le troisième jeu représente l'étape finale de la réparation de la borne. Le système est quasiment rétabli mais il est instable => les couleurs du player changent tout le temps. Le joueur incarne ainsi un petit personnage qui saute à l'infini sur des plateformes colorées. Ce dernier ne peut rebondir que sur les plateformes qui correspondent à sa couleur actuel.
+Ce jeu est quant à lui inspiré du doodle Jump.
+
+Mécanique principale :
+Parvenir à aller le plus haut possible en rebondissant uniquement sur les plateformes de la même couleur que le joueur, en arrivant à anticiper les changements de couleur à venir.
+
+Fonctionnement global :
+Le joueur rebondit automatiquement sur les plateformes lorsqu'il les touche (uniquement par le dessus). Toutes les 5 secondes, sa couleur change automatiquement pour une nouvelle couleur différente de la précédente. Si le joueur atterrit sur une plateforme d'une couleur différente de la sienne, il meurt immédiatement. Les plateformes sont générées aléatoirement mais de manière contrôlé par un système de pool (50 objets pré-instanciés) et détruite lorsqu'elles passent sous la caméra. Elles apparaissent ainsi en lignes réparties horizontalement et bien espacé pour être sur que le joueur puisse passer. Les couleurs des plateformes apparaissent toujours équitablement les 4 afin qu'il y en ai toujours une  à proximité du player pour pas qu'il se retrouve bloqué. Et enfin le score du player correspond à la hauteur maximale atteinte (mètres).
+
+Feeling :
+La couleur suivante du player est affiché dans l'UI afin qu'il prenne compte de cela et s'adapte, anticipant ainsi ses sauts et déplacement. Un feedback sonore se joue quand le joueur saute (touche une bonne plateforme. Sur L'UI s'affiche également constamment et s'update constamment le score du joueur.
+
+Fonctionnalités principales :
+Ce qui compose le cœur du projet pour ce jeu est : le Script PlayerController, qui gère le déplacement horizontal, le wrap d'écran, la détection de collision avec les plateformes, le saut automatique et la mort du player; le Script ColorManager, qui s'occupe des changements de couleur du joueur à intervalle régulier ; le Script ColorSpawner, qui génère, et positionne les plateformes; le Script Platform, qui porte la couleur ou l'état neutre d'une plateforme et met à jour son visuel ; le ScoreManager, qui traque la hauteur maximale atteint par le joueur ; le script ColorChangeUI, qui affiche le timer, et la prévisualisation de la prochaine couleur du player ; et le script MobileInputHandler, qui s'occupe des inputs.
