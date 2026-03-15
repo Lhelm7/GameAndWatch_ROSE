@@ -39,9 +39,7 @@ public class ColorChangeUI : MonoBehaviour
         UpdateTimer();
         UpdateFlash();
     }
-
-    // ─── Timer ────────────────────────────────────────────────────────────────
-
+    
     void UpdateTimer()
     {
         float remaining = colorManager.TimeRemaining;
@@ -53,8 +51,7 @@ public class ColorChangeUI : MonoBehaviour
         if (timerBar != null)
             timerBar.fillAmount = progress;
     }
-
-    // ─── Events ───────────────────────────────────────────────────────────────
+    
 
     void HandleNextColorReady(ColorType next, float interval)
     {
@@ -71,8 +68,7 @@ public class ColorChangeUI : MonoBehaviour
     {
         TriggerFlash(PlayerController.ColorTypeToUnityColor(applied));
     }
-
-    // ─── Flash ────────────────────────────────────────────────────────────────
+    
 
     void TriggerFlash(Color color)
     {
