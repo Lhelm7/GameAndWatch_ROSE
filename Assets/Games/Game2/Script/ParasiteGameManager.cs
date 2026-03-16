@@ -165,6 +165,11 @@ public class ParasiteGameManager : MonoBehaviour
         StartWave();
     }
     
+    private void SaveScore()
+    {
+        string playerName = PlayerSession.Instance != null ? PlayerSession.Instance.PlayerName : "Player";
+        HighScoreRepository.AddScore("game2", playerName, score);
+    }
 
     void VictoryEnd()
     {
@@ -187,6 +192,7 @@ public class ParasiteGameManager : MonoBehaviour
         if (music != null)
             music.SetActive(false);
         audioEventDispatcher.PlayAudio(AudioType.Loose);
+        SaveScore();
         Time.timeScale = 0f;
 
         if (gameOver != null)
@@ -201,6 +207,7 @@ public class ParasiteGameManager : MonoBehaviour
     {
         if (music != null)
             music.SetActive(false);
+        SaveScore();
         Time.timeScale = 0f;
 
         if (victory!= null)

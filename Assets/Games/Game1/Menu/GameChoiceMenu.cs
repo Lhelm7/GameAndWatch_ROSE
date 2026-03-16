@@ -11,9 +11,7 @@ public class GameChoiceMenu : MonoBehaviour
 
     private void Start()
     {
-        animator1.SetTrigger(Blink);
-        animator2.SetTrigger(Blink);
-        animator3.SetTrigger(Blink);
+        
     }
 
     public void FirstGame(string sceneName)

@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private float waveCooldown = 0.1f;
     
     [Header("Scene Management")]
-    [SerializeField] private string gameOverSceneName = "GameOver";
+    [SerializeField] private string gameOverSceneName = "HighScoreGame1";
     [SerializeField] private string victorySceneName = "SuccessGame1";
     
     private int currentLives;
@@ -149,10 +149,11 @@ public class GameManager : MonoBehaviour
 
     private void EndGame()
     {
-        {
-            LoadScene(gameOverSceneName);
-        }
+        string playerName = PlayerSession.Instance != null ? PlayerSession.Instance.PlayerName : "Player";
+        HighScoreRepository.AddScore("game1", playerName, currentScore);
+        LoadScene(gameOverSceneName);
     }
+
 
 
 
@@ -336,4 +337,10 @@ public class GameManager : MonoBehaviour
             }
         }
     }
+    public void GoToHighScores()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("HighScoreGame1");
+    }
+
 }

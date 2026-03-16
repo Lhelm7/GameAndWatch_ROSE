@@ -26,6 +26,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Games/Scenes/3rdGame.unity
     guid: 2ef390a951f25044b9012650a4c96f2e
+  - enabled: 1
+    path: Assets/Games/Scenes/HighScoreGame1.unity
+    guid: 7002dcbd927f51044b3aa68a4cb53c28
+  - enabled: 1
+    path: Assets/Games/Scenes/HighScoreGame2.unity
+    guid: 7cd54fae67412f740a6ef916f00c63dd
+  - enabled: 1
+    path: Assets/Games/Scenes/HighScoreGame3.unity
+    guid: ef5521bd8273c424e94c3941ddc56cd9
+  - enabled: 1
+    path: Assets/Games/Scenes/MenuChooseGame.unity
+    guid: 9cef0d8e0a263c942b59ca570a4ddc6b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

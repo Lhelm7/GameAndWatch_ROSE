@@ -19,9 +19,10 @@ public class GameOver2 : MonoBehaviour
         SceneManager.LoadScene("2ndGame");
     }
 
-    public void QuitGame(string sceneName)
+    public void GoToHighScores()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("MenuChangeGame");
+        SceneManager.LoadScene("HighScoreGame2"); // une scène par jeu
     }
+
 }

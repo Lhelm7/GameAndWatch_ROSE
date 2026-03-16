@@ -65,18 +65,23 @@ public class GameUIManager : MonoBehaviour
     {
         Debug.Log("Player Died");
 
+        // Enregistrement du high score
+        string playerName = PlayerSession.Instance != null ? PlayerSession.Instance.PlayerName : "Player";
+        HighScoreRepository.AddScore("game1", playerName, currentScore);
+
         Time.timeScale = 0f;
-if (music != null)
-    music.SetActive(false);
+        if (music != null)
+            music.SetActive(false);
 
         if (gameOverPanel != null)
             gameOverPanel.SetActive(true);
-        
+    
         if (finalScoreText != null)
             finalScoreText.text = "Score : " + currentScore;
 
         OnDie?.Invoke();
     }
+
 
     public void RestartGame(string sceneName)
     {

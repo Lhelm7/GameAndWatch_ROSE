@@ -43,4 +43,10 @@ public class ScoreManager : MonoBehaviour
         if (liveScoretText != null)
             liveScoretText.text = CurrentMeters + " m";
     }
+    public void SaveFinalScore()
+    {
+        string playerName = PlayerSession.Instance != null ? PlayerSession.Instance.PlayerName : "Player";
+        HighScoreRepository.AddScore("game3", playerName, CurrentMeters);
+    }
+
 }

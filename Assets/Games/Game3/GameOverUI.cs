@@ -25,10 +25,14 @@ public class GameOverUI : MonoBehaviour
     /// </summary>
     void ShowGameOver(int score)
     {
+        // Appel à FindFirstObjectByType car ScoreManager est dans la scène
+        ScoreManager scoreManager = FindFirstObjectByType<ScoreManager>();
+        scoreManager?.SaveFinalScore();
 
         finalScoreText.text = score + " m";
         gameOverPanel.SetActive(true);
     }
+
 
     /// <summary>
     /// Relance la scène. À brancher sur le bouton Retry.
@@ -39,9 +43,10 @@ public class GameOverUI : MonoBehaviour
         SceneManager.LoadScene("3rdGame");
     }
 
-    public void Quit(string sceneName)
+    public void GoToHighScores()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("MenuChangeGame");
+        SceneManager.LoadScene("HighScoreGame3");  
     }
+
 }
